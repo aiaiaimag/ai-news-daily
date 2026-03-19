@@ -1,0 +1,13 @@
+{
+  "name": "ai-news-daily",
+  "version": "1.0.0",
+  "description": "Daily AI News Dashboard - 매일 아침 AI 뉴스 자동 수집",
+  "type": "module",
+  "scripts": {
+    "fetch": "node src/fetch-news.js",
+    "dev": "npx serve public"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^4.3.4"
+  }
+}
