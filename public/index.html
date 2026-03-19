@@ -380,118 +380,6 @@
       margin-top: 0.4rem;
     }
 
-    /* ── Login overlay ── */
-    .login-overlay {
-      position: fixed;
-      inset: 0;
-      background: var(--bg);
-      z-index: 10000;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-    }
-
-    .login-overlay.hidden { display: none; }
-
-    .login-box {
-      background: var(--surface);
-      border: 1px solid var(--border);
-      border-radius: 16px;
-      padding: 2.5rem;
-      width: 90%;
-      max-width: 420px;
-      animation: fadeUp 0.5s ease forwards;
-    }
-
-    .login-logo {
-      display: flex;
-      align-items: baseline;
-      gap: 0.5rem;
-      margin-bottom: 1.5rem;
-    }
-
-    .login-desc {
-      font-size: 0.82rem;
-      color: var(--text-dim);
-      margin-bottom: 1.5rem;
-      line-height: 1.6;
-    }
-
-    .login-input-wrap {
-      position: relative;
-      margin-bottom: 1rem;
-    }
-
-    .login-input {
-      width: 100%;
-      padding: 0.8rem 1rem;
-      background: var(--bg);
-      border: 1px solid var(--border);
-      border-radius: 8px;
-      color: var(--text);
-      font-family: var(--font-mono);
-      font-size: 0.78rem;
-      outline: none;
-      transition: border-color 0.2s;
-    }
-
-    .login-input:focus {
-      border-color: var(--accent);
-    }
-
-    .login-input::placeholder {
-      color: var(--text-muted);
-    }
-
-    .login-btn {
-      width: 100%;
-      padding: 0.75rem;
-      background: var(--accent);
-      color: var(--bg);
-      border: none;
-      border-radius: 8px;
-      font-family: var(--font-body);
-      font-size: 0.85rem;
-      font-weight: 600;
-      cursor: pointer;
-      transition: opacity 0.2s;
-    }
-
-    .login-btn:hover { opacity: 0.9; }
-    .login-btn:disabled {
-      opacity: 0.5;
-      cursor: not-allowed;
-    }
-
-    .login-error {
-      font-size: 0.75rem;
-      color: #f87171;
-      margin-top: 0.75rem;
-      display: none;
-    }
-
-    .login-error.show { display: block; }
-
-    /* ── Logout button ── */
-    .logout-btn {
-      font-family: var(--font-mono);
-      font-size: 0.68rem;
-      color: var(--text-muted);
-      background: var(--bg);
-      border: 1px solid var(--border);
-      padding: 0.25rem 0.7rem;
-      border-radius: 20px;
-      cursor: pointer;
-      transition: all 0.2s;
-    }
-
-    .logout-btn:hover {
-      color: var(--text);
-      border-color: var(--border-accent);
-    }
-
-    .app-content.hidden { display: none; }
-
     /* ── Scrollbar ── */
     ::-webkit-scrollbar { width: 4px; }
     ::-webkit-scrollbar-track { background: transparent; }
@@ -499,29 +387,6 @@
   </style>
 </head>
 <body>
-  <!-- Login Overlay -->
-  <div class="login-overlay" id="login-overlay">
-    <div class="login-box">
-      <div class="login-logo">
-        <span class="logo-mark">Daily</span>
-        <span class="logo-title" style="font-family:var(--font-display);font-size:1.6rem;font-weight:900;color:var(--text);">AI News</span>
-      </div>
-      <p class="login-desc">AI 뉴스 대시보드에 접근하려면 로그인하세요.</p>
-      <form id="login-form" autocomplete="off">
-        <div class="login-input-wrap">
-          <input type="text" class="login-input" id="login-id" placeholder="아이디" required />
-        </div>
-        <div class="login-input-wrap">
-          <input type="password" class="login-input" id="login-pw" placeholder="비밀번호" required />
-        </div>
-        <button type="submit" class="login-btn" id="login-btn">로그인</button>
-      </form>
-      <p class="login-error" id="login-error">아이디 또는 비밀번호가 올바르지 않습니다.</p>
-    </div>
-  </div>
-
-  <!-- App Content -->
-  <div class="app-content hidden" id="app-content">
   <header class="header">
     <div class="logo">
       <span class="logo-mark">Daily</span>
@@ -534,7 +399,6 @@
       </span>
       <span class="meta-item">국내 10 · 글로벌 10</span>
       <span class="meta-item">Google News · Claude 선별</span>
-      <button class="logout-btn" id="logout-btn">로그아웃</button>
     </div>
   </header>
 
@@ -577,68 +441,8 @@
   <footer class="footer">
     <p>매일 오전 8시(KST) 자동 업데이트 · GitHub Actions + Netlify · Powered by Claude</p>
   </footer>
-  </div><!-- /app-content -->
 
   <script>
-    // ── Auth ──
-    const ACCOUNTS = [
-      { id: 'admin', pw: '8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918' }
-    ];
-
-    async function hashPassword(pw) {
-      const encoded = new TextEncoder().encode(pw);
-      const buffer = await crypto.subtle.digest('SHA-256', encoded);
-      return Array.from(new Uint8Array(buffer)).map(b => b.toString(16).padStart(2, '0')).join('');
-    }
-
-    function checkAuth() {
-      const session = localStorage.getItem('ainews_auth');
-      if (session === 'authenticated') {
-        showApp();
-      } else {
-        showLogin();
-      }
-    }
-
-    function showLogin() {
-      document.getElementById('login-overlay').classList.remove('hidden');
-      document.getElementById('app-content').classList.add('hidden');
-    }
-
-    function showApp() {
-      document.getElementById('login-overlay').classList.add('hidden');
-      document.getElementById('app-content').classList.remove('hidden');
-      loadNews();
-    }
-
-    document.getElementById('login-form').addEventListener('submit', async (e) => {
-      e.preventDefault();
-      const id = document.getElementById('login-id').value.trim();
-      const pw = document.getElementById('login-pw').value;
-      const btn = document.getElementById('login-btn');
-      const errorEl = document.getElementById('login-error');
-
-      btn.disabled = true;
-      btn.textContent = '확인 중...';
-      errorEl.classList.remove('show');
-
-      const pwHash = await hashPassword(pw);
-      const matched = ACCOUNTS.find(a => a.id === id && a.pw === pwHash);
-
-      if (matched) {
-        localStorage.setItem('ainews_auth', 'authenticated');
-        showApp();
-      } else {
-        errorEl.classList.add('show');
-        btn.disabled = false;
-        btn.textContent = '로그인';
-      }
-    });
-
-    document.getElementById('logout-btn').addEventListener('click', () => {
-      localStorage.removeItem('ainews_auth');
-      showLogin();
-    });
     async function loadNews() {
       try {
         const res = await fetch('./data.json?' + Date.now());
@@ -712,7 +516,7 @@
       return div.innerHTML;
     }
 
-    checkAuth();
+    loadNews();
   </script>
 </body>
 </html>
