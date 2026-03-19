@@ -11,21 +11,21 @@
     *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
 
     :root {
-      --bg: #0a0a0c;
-      --surface: #111114;
-      --surface-hover: #18181c;
-      --border: #222228;
-      --border-accent: #2a2a32;
-      --text: #e8e6e3;
-      --text-dim: #8a8894;
-      --text-muted: #5a5868;
-      --accent: #6ee7b7;
-      --accent-dim: rgba(110, 231, 183, 0.12);
-      --accent2: #818cf8;
-      --accent2-dim: rgba(129, 140, 248, 0.12);
-      --youth: #f472b6;
-      --youth-dim: rgba(244, 114, 182, 0.10);
-      --high: #fbbf24;
+      --bg: #f5f5f7;
+      --surface: #ffffff;
+      --surface-hover: #f0f0f3;
+      --border: #e0e0e4;
+      --border-accent: #d0d0d6;
+      --text: #1a1a1f;
+      --text-dim: #6b6b78;
+      --text-muted: #9a9aa6;
+      --accent: #10b981;
+      --accent-dim: rgba(16, 185, 129, 0.10);
+      --accent2: #6366f1;
+      --accent2-dim: rgba(99, 102, 241, 0.10);
+      --youth: #ec4899;
+      --youth-dim: rgba(236, 72, 153, 0.08);
+      --high: #f59e0b;
       --font-body: 'Noto Sans KR', sans-serif;
       --font-mono: 'JetBrains Mono', monospace;
       --font-display: 'Playfair Display', serif;
@@ -45,7 +45,7 @@
       content: '';
       position: fixed;
       inset: 0;
-      background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.85' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='.03'/%3E%3C/svg%3E");
+      background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.85' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='.015'/%3E%3C/svg%3E");
       pointer-events: none;
       z-index: 9999;
     }
@@ -92,9 +92,7 @@
       font-size: 2.4rem;
       font-weight: 900;
       letter-spacing: -0.02em;
-      background: linear-gradient(135deg, var(--text) 0%, var(--text-dim) 100%);
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
+      color: var(--text);
     }
 
     .header-meta {
@@ -255,7 +253,7 @@
     }
 
     .news-card:hover .card-title {
-      color: #fff;
+      color: #000;
     }
 
     .card-summary {
