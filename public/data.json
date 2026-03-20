@@ -1,187 +1,187 @@
 {
   "domestic": [
     {
-      "title": "삼성전자, 오픈AI도 뚫었다…8억Gb 'HBM4' 단독 공급",
-      "summary": "삼성전자가 차세대 고대역폭 메모리 HBM4를\n오픈AI에 단독 공급하기로 합의했다고 발표",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52WkJnclYzNU1BZjRHUVpkQUZ1WnR5UWVEbXZjUGh5ejVxNTRWd0QwbGlKYXAyV1k3SDZ0b1lqeGFrQkxtank0MFpTMy1TV1QtaTI4U2xIRjBSQdIBVEFVX3lxTE5NMzVjbFNyNjQ4aEpNSTVOd1ludnRNRDhHcEVWbDlNc3Y3NDFYZkk1SmhyOTRWZGI5NWdJRTNNcS1jaTAzTjVSNGZBQ3VFWF83ZklIbQ?oc=5",
+      "title": "트럼프 행정부, 국가 AI 입법 프레임워크 발표…주(州) 규제 선제 봉쇄 추진",
+      "summary": "백악관이 연방 차원의 통일된 AI 규제 체계 구축을 위한 \n국가 AI 입법 프레임워크를 공개, 각 주정부 개별 규제 제한",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE51MFJKaW9UeFFGaTRFTUVJalBOYUtWSkF2eWQwVUR4QWpOUi1YU3lkQ1hiM3BROU1oN2JnbmlGU0k4dEFmXzd1Qm1oX0V1eFZsMnRMcXdLVmx5SHk4eWR4NEYwM1I?oc=5",
+      "source": "디지털데일리",
+      "pubDate": "Fri, 20 Mar 2026 21:35:08 GMT",
+      "relevance": "high",
+      "youthAppeal": true
+    },
+    {
+      "title": "1억 도 '인공태양' 가동 임박… AI가 당긴 핵융합 시계와 2030 전력망 대수술",
+      "summary": "AI 기술로 핵융합 발전 상용화 시기가 앞당겨지면서 \n2030년대 에너지 산업 대변혁이 예상된다고 전문가들 전망",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeEthWUxHUlZKdXM5ZG8xMWVkMU9nV0ZYTDQxckJaUmFTMUJtbEpFSlk5ejBFSWp6QTBLQmpDYzRiT01SOTMtYjNEMGotNFUwVFJ0N0hVQ0REU1BzRHd1Tkh2SGxVYTB2djNQTVJQbHRqdnFENkdfN2Joc1RnMEQ4RTBSa3RRX3o1?oc=5",
+      "source": "글로벌이코노믹",
+      "pubDate": "Fri, 20 Mar 2026 22:17:14 GMT",
+      "relevance": "high",
+      "youthAppeal": true
+    },
+    {
+      "title": "데이터 바닥난 AI…봇끼리 수다로 학습 채운다",
+      "summary": "AI 학습용 데이터 고갈 문제 해결을 위해 \nAI끼리 대화하며 학습하는 새로운 방식 도입 확산",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XdHZpUHdDZWxxbnc4RThCRDQ5cFBFZURsd2ZQYmRLcEhDRmZSYkRMQWZMNF9FVXYtejNBRktPdU5nMVdweDdsMHphNTRITEpQbktnb1NmVm1qUVHSAWBBVV95cUxPWXdDVVFfMUhYcVNuU0kzRGJ4WHZhbTExT05HRUJMT3U5ZVpVUEE2VmRjU195N1ZjaGhMUkF1Vk5lbDBoYmVDT2tjZ1NwLWpiMzY2Q3VwMlotU2I1VGFZaGo?oc=5",
+      "source": "연합뉴스",
+      "pubDate": "Fri, 20 Mar 2026 21:33:01 GMT",
+      "relevance": "high",
+      "youthAppeal": true
+    },
+    {
+      "title": "엔비디아, '범용 로봇 시대' 연다…피지컬 AI 통합 플랫폼 출시",
+      "summary": "엔비디아가 물리세계와 상호작용하는 AI 로봇을 위한 \n통합 플랫폼을 공개하며 피지컬 AI 시장 선점 나서",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE13UmZoZGVmYTJZYVNEaGI2YTNBekJpR1lWTHU4S19haUQtZlJLT2pzWkVpMEF6UmxuVWRJUlMxUDE4dGxvZlJIOEZMTmxJbFNac1Z6ZnVR?oc=5",
+      "source": "지디넷코리아",
+      "pubDate": "Fri, 20 Mar 2026 08:21:08 GMT",
+      "relevance": "high",
+      "youthAppeal": true
+    },
+    {
+      "title": "\"AI로 결제하는 세상\"…엔비디아-오픈AI, '에이전틱 쇼핑' 표준 제시",
+      "summary": "AI 에이전트가 사용자 대신 쇼핑하고 결제까지 처리하는 \n에이전틱 쇼핑의 업계 표준을 두 거대 기업이 공동 제시",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5naVdiQlkzUXVXcUp0UjFFMGR4Ulk1Y0xvT0N6cmxweGFmak5uSHVhbG5WdEtJWDZCSW12bHptd1IwOXR3NlBxTmFobXM4MzhiRFVLQzNB?oc=5",
+      "source": "지디넷코리아",
+      "pubDate": "Fri, 20 Mar 2026 08:02:23 GMT",
+      "relevance": "high",
+      "youthAppeal": true
+    },
+    {
+      "title": "엔비디아, 오픈 모델로 '의료 AI' 혁신…헬스케어·신약 개발 가속",
+      "summary": "엔비디아가 의료용 AI 모델을 오픈소스로 공개하며 \n헬스케어 AI 생태계 구축과 신약개발 혁신 추진",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9tREdTQWJiSWxaa2RNZ0VpMzQ5U2ZUYjV0QXYtNS1zbTlQX29xMHdmd1JVdzNCMW5IOUNvWnpTeklIUXgxNzBTcm9NRFA4dVAzX2hfRXR3?oc=5",
+      "source": "지디넷코리아",
+      "pubDate": "Fri, 20 Mar 2026 09:15:44 GMT",
+      "relevance": "high",
+      "youthAppeal": false
+    },
+    {
+      "title": "교육부-과기정통부, AI 인재양성 협력 강화…과학기술 인재 정책 본격 추진",
+      "summary": "정부가 AI 인재 부족 해결을 위해 부처 간 협력체계 구축 \n대학-산업체 연계 교육과정 확대로 실무형 인재 양성 박차",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0xaUVpWTRYVjh1SzhRSHB5NFM5NmtIbUNyTmZTclA3OTV2Slc3RHMwVDN1V2p0ZWxxajJCWTNkQm9uaWZ1WEVDRUZOdGRoTVlCVEpGaFg2Q0VhN3JxaDVHb2VCd1hwR1NZMU95eE9sX0XSAXBBVV95cUxNMWlFaVk0WFY4dUs4UUhweTRTOTZrSG1Dck5mU3JQNzk1dkpXN0RzMFQzdVdqdGVscWoyQlkzZEJvbmlmdVhFQ0VGTnRkaE1ZQlRKRmhYNkNFYTdycWg1R29lQndYcEdTWTFPeXhPbF9F?oc=5",
+      "source": "내외뉴스통신",
+      "pubDate": "Fri, 20 Mar 2026 09:14:07 GMT",
+      "relevance": "medium",
+      "youthAppeal": true
+    },
+    {
+      "title": "AI가 연결한 일자리 17만건…\"취업 보조 넘어 경력관리 플랫폼으로\"",
+      "summary": "AI 기반 취업 매칭 서비스가 17만 건 성과를 올리며 \n단순 구직을 넘어 경력 전반을 관리하는 플랫폼으로 진화",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFByQS15ZDAzVEhUZlZ4UmlfMEx5MHJtUWkyb1Fad05LeVJ5R2I0Y092aVlmWXRCSmUteTE3TGJkcnQ1S21lQnM1di1FekFOOUxXTHQ3SFlTVWhaUTZnakdwSFV6dFNydHA4dkY3eg?oc=5",
+      "source": "mstoday.co.kr",
+      "pubDate": "Fri, 20 Mar 2026 03:48:22 GMT",
+      "relevance": "medium",
+      "youthAppeal": true
+    },
+    {
+      "title": "\"인간보다 똑똑한 AI 만들겠다\"는 이 사람, 10년 만에 한국에 온다",
+      "summary": "AGI(범용 인공지능) 개발을 목표로 하는 글로벌 AI 석학이 \n10년 만에 한국을 방문해 AI 기술 협력 방안을 논의할 예정",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1GN1RXc1gtbjUxMC1mR1d1V0FHUVRrdnRCODZ1SjRScmd6R3lncFRuM01DUmltSS15ay16SFI2S1ctbUVCUXk4dUdYZm12Y1lhY3cyTNIBVEFVX3lxTE1GN1RXc1gtbjUxMC1mR1d1V0FHUVRrdnRCODZ1SjRScmd6R3lncFRuM01DUmltSS15ay16SFI2S1ctbUVCUXk4dUdYZm12Y1lhY3cyTA?oc=5",
       "source": "한국경제",
-      "pubDate": "Thu, 19 Mar 2026 08:38:03 GMT",
-      "relevance": "high",
-      "youthAppeal": true
-    },
-    {
-      "title": "삼성전자 올해 AI 반도체 주도권 확보 위해 총 110조원 투자",
-      "summary": "삼성전자가 AI 반도체 패권 확보를 위해\n역대 최대 규모인 110조원 투자를 발표",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11UmpPTzNJMkRRWDZDZFJ6TDgzbllXVTFNT3Bib3pGa3djYkY3Ylljc3MzbVlJVHRXVkE1T3VHcE9fVHdDNE1aOUw2S2xVRXNmcHJ6ZnluRm9ienhKNHAyUNIBYEFVX3lxTE11UmpPTzNJMkRRWDZDZFJ6TDgzbllXVTFNT3Bib3pGa3djYkY3Ylljc3MzbVlJVHRXVkE1T3VHcE9fVHdDNE1aOUw2S2xVRXNmcHJ6ZnluRm9ienhKNHAyUA?oc=5",
-      "source": "연합뉴스",
-      "pubDate": "Thu, 19 Mar 2026 08:16:00 GMT",
-      "relevance": "high",
-      "youthAppeal": true
-    },
-    {
-      "title": "AMD 리사 수-하정우 AI수석 회동…'AI 3강' 도약 협력 논의",
-      "summary": "AMD CEO가 청와대 AI수석과 만나 한국의\nAI 3강 국가 도약을 위한 협력방안을 논의",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBGV0NwbVpqbFNoRDY4YnpFYTZ4LVkxSENvY3ZsVHBuR1RFWjlSTUUyZWVGTDNwZWp3UEdSV0JCMDNHZ19TRkFYS2ViZnZQMXM?oc=5",
-      "source": "v.daum.net",
-      "pubDate": "Thu, 19 Mar 2026 15:33:15 GMT",
-      "relevance": "high",
-      "youthAppeal": false
-    },
-    {
-      "title": "리사 수 AMD CEO 한국 소버린AI 지원…업스테이지와 협력 확대",
-      "summary": "AMD CEO가 업스테이지와 만나 한국형 AI\n인프라 구축을 위한 전략적 협력을 확대하기로",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DNjBraUY3bk9XLUdMbFhUVWctVkIxc3JtTWhuR3M2QWVMQXFOQUhxUEVmSmN4VnpQeHl4emtQdkF4M2oycFZVbFVVeW9DTVZTN2pxTldCbUUyRW9DeDUwMdIBYEFVX3lxTE5DNjBraUY3bk9XLUdMbFhUVWctVkIxc3JtTWhuR3M2QWVMQXFOQUhxUEVmSmN4VnpQeHl4emtQdkF4M2oycFZVbFVVeW9DTVZTN2pxTldCbUUyRW9DeDUwMQ?oc=5",
-      "source": "연합뉴스",
-      "pubDate": "Thu, 19 Mar 2026 00:43:39 GMT",
-      "relevance": "high",
-      "youthAppeal": true
-    },
-    {
-      "title": "원자력연, 우주 방사선 견디는 AI반도체 성능 검증 성공",
-      "summary": "한국원자력연구원이 극한 우주환경에서도\n작동하는 차세대 AI 반도체 소자를 세계 최초 검증",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9XMzhORFFzVHpvdGUzcXFDem43UUhMdWNsTHY2Qy1rTTFSeXdIbko0ZDBCQTVsRmxhcEpIak9hcm5sbTFEZ2JNRVVxQnRHRWVJeEpkQjlQMDdDN0FVSnBhUtIBYEFVX3lxTE9XMzhORFFzVHpvdGUzcXFDem43UUhMdWNsTHY2Qy1rTTFSeXdIbko0ZDBCQTVsRmxhcEpIak9hcm5sbTFEZ2JNRVVxQnRHRWVJeEpkQjlQMDdDN0FVSnBhUg?oc=5",
-      "source": "연합뉴스",
-      "pubDate": "Thu, 19 Mar 2026 05:51:26 GMT",
-      "relevance": "high",
-      "youthAppeal": false
-    },
-    {
-      "title": "자율주행도 AI 추론 시대…테슬라 구식됐다",
-      "summary": "엔비디아가 새로운 AI 추론 기술을 발표하며\n테슬라의 기존 자율주행 기술이 구식이라고 주장",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDakhwV29Ka0VmbVlpaTZVV1hsSkRzS0ZPSUdTN1pmYjJrUXVVanZRenoxc21WWHBuU1hvbmFrOGFUZ2pDdUp3RE9ZaUd2TVM2WlM3V2UxeUdmQdIBVEFVX3lxTFBCNlBpZS1yeEJSRmFtaVBOMU90N2g1MkMwbmxUTHZYOC1IOHo1NTlKNmQ3a1h1eElNa1pRb2NlQTl3UUt2UGRINkg1RWlOYnh6cFBTQQ?oc=5",
-      "source": "한국경제",
-      "pubDate": "Thu, 19 Mar 2026 08:10:34 GMT",
-      "relevance": "high",
-      "youthAppeal": true
-    },
-    {
-      "title": "국가AI전략위, AI 시대 '지속 가능한 고용' 제도 논의",
-      "summary": "정부가 AI 도입으로 인한 일자리 변화에 대비해\n지속가능한 고용 제도 마련 방안을 본격 논의",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVSHNUUDhVWnhqeU1FLWQ5eDRLbXgzWWZPbUZvZy1VekhWT0YyS093ODhDTHdhekhicGhrNFNHYW1fUzNsOTN3UUxrUHVHeDltM3h1LUFmam15eDJvZHdEd9IBYEFVX3lxTFBVSHNUUDhVWnhqeU1FLWQ5eDRLbXgzWWZPbUZvZy1VekhWT0YyS093ODhDTHdhekhicGhrNFNHYW1fUzNsOTN3UUxrUHVHeDltM3h1LUFmam15eDJvZHdEdw?oc=5",
-      "source": "연합뉴스",
-      "pubDate": "Thu, 19 Mar 2026 06:30:01 GMT",
-      "relevance": "high",
-      "youthAppeal": true
-    },
-    {
-      "title": "농진원, 농식품 AI 상용화 '가속'…기업당 20억 지원",
-      "summary": "농촌진흥청이 농식품 분야 AI 상용화를 위해\n참여 기업당 최대 20억원씩 지원한다고 발표",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1GNTlNc1NKUXFBSkpIdW5odDRMR2ZXN1RnTXd6cXBjVGsyYVp6YmJqbF9OTG5SOEYzVVZ3M3hjOWNEczByLWl3SmtvX083dTVXSVhMNjF1djdMZG1lcnpSRtIBYEFVX3lxTE1GNTlNc1NKUXFBSkpIdW5odDRMR2ZXN1RnTXd6cXBjVGsyYVp6YmJqbF9OTG5SOEYzVVZ3M3hjOWNEczByLWl3SmtvX083dTVXSVhMNjF1djdMZG1lcnpSRg?oc=5",
-      "source": "연합뉴스",
-      "pubDate": "Thu, 19 Mar 2026 00:28:27 GMT",
-      "relevance": "medium",
-      "youthAppeal": false
-    },
-    {
-      "title": "'공공조달 AI 전환 로드맵' 마련…인프라 구축·서비스 확산",
-      "summary": "정부가 공공기관의 AI 도입을 체계화하기 위한\n전환 로드맵을 마련해 본격 추진한다고 발표",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NNTNBTTR4cEoyeHlkSWZXRjN0LWtZalZxeE9MUllfMUVuUFRqN2c1M2dnNmJSTTNmY25tRGtENFkxWmhrajVFVjlkejFXNWNQcnB2d2RReTd0UjTSAWBBVV95cUxQNDY1WWt4cjlFc3poaFJ0ZHNhTzJnSUsta2U3YTZnQzlFc1hfX284OThINlRFTVdRSEdSMHp6LTdURzJtMmx3Y1dBemlseWoybXJZQlFhR2t5UmtTd2VwRmc?oc=5",
-      "source": "연합뉴스",
-      "pubDate": "Thu, 19 Mar 2026 05:33:32 GMT",
-      "relevance": "medium",
-      "youthAppeal": false
-    },
-    {
-      "title": "AI가 사고친 것도 보상…AI 전용 보험 시대 열렸다",
-      "summary": "AI 시스템의 오작동이나 사고를 보상하는\n전용 보험 상품이 국내에서 본격 출시됐다",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1wcEk2eDhSck1yNFdRYlhRNHdzRDM2Yjl1TmlBRmgxOVNndmRreTI2MGhlLWVuci1TTjR2SFRaTUx3c1R0UlBBN2VOenRlVjdhY1lhYnl1cWs2dWUwT0tzdWlOTndqQ2RNem1OONIBbEFVX3lxTE1wcEk2eDhSck1yNFdRYlhRNHdzRDM2Yjl1TmlBRmgxOVNndmRreTI2MGhlLWVuci1TTjR2SFRaTUx3c1R0UlBBN2VOenRlVjdhY1lhYnl1cWs2dWUwT0tzdWlOTndqQ2RNem1OOA?oc=5",
-      "source": "국민일보",
-      "pubDate": "Thu, 19 Mar 2026 17:05:00 GMT",
+      "pubDate": "Thu, 19 Mar 2026 23:55:00 GMT",
       "relevance": "medium",
       "youthAppeal": true
+    },
+    {
+      "title": "우주 방사선 견디는 'AI반도체' 세계 첫 개발",
+      "summary": "극한의 우주 환경에서도 작동하는 AI 반도체 기술을 \n국내 연구진이 세계 최초로 개발해 우주 AI 시대 열어",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1tdHJmR1FwSVgtSE5uOWNkYUFmdElEcENMQkNjM3dXR1BYSUZDbnlEUHRGT2FYSGZtSkNDdUhUY21vcHotQXNnU0E2UW5uTi1raHg0ZEhmLVU2WHZ1LVpKS1h4TUJCQWl2dEhZ?oc=5",
+      "source": "문화체육관광부 한국문화원",
+      "pubDate": "Fri, 20 Mar 2026 07:44:07 GMT",
+      "relevance": "medium",
+      "youthAppeal": false
     }
   ],
   "global": [
     {
-      "title": "제프 베조스, AI 제조업 혁신을 위한 1000억 달러 펀드 모금 추진",
-      "summary": "아마존 창립자 베조스가 AI를 활용한 제조업 혁신을 위해\n사상 최대 규모인 1000억 달러 펀드 조성에 나섰다",
-      "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxPTGtpNmQtanl4dy02T2kxcGwweElkdGJsSUlGSmIyMXRDekpXbFJYLWFMN2Y2TVgyY24yb3lrdmxEbDhHLWtKZ0dMTWttYmJmU3hoNTE1YXdlSUxoZkVXQUplRGRUTG9sWVMtWWFVTDJHa0ZGUmNrMXpnbm9hcURpZ2t3TkxnMW95U0tyMXY5QkZXbktjMWtqY0UwclE1VmJCa2hBVU5zcVJZWUltWk9EbXYwaFV5d2ZHVE9NbHlDcFR2cTdlZElySFpTX1FVTmZoVnA5a0dRUEJSZUdNUWtzZC1TYlRLRmRYaVRNMDl4MkFWVVVBbXNscnI0Yk51bDVhdFpfUDNvUkpWNUlpQ3JUUk9ZaTE1M3RKMlVnSXRzZ1N2bVdmWWh1ei03dUNUeFcxVGJZbE0zak0zM0lmTFJfN0F2OEJ2Sml1OFJLNVEzdjV1VGhNSEE2V0NQU1IzN0pNSDV2MHY2X0lmcjJGMWYyLWhQSEJGWlJZNmVjc1MyVjk4aTlYYXBETUFrUkM2eU1CQjRkeHZ4QVY3VHphdmh5R3gzWmFBRXdCeTlBNTBIZmNPMU9naWs0?oc=5",
-      "source": "WSJ",
-      "pubDate": "Thu, 19 Mar 2026 19:42:00 GMT",
+      "title": "트럼프 행정부, AI 정책 프레임워크 발표해 주 정부 규제 무력화 시도",
+      "summary": "트럼프 정부가 캘리포니아 등 주정부의 AI 규제를 우선시하는 연방 차원 AI 정책 프레임워크를 발표했다.\n규제 완화를 통해 AI 기업들의 혁신을 우선시하는 접근법을 채택하고 있다.",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQUlMdTBoaFFMaFhKYWJ6SmNuTUlWeWR4QWFObDFjcE1oQWc5SlNRdk5kc3FxOWEwOTRVOWgxVzRna1lERlBaS2d5dEJybUhUQVktQVN4V3VnaVcwN2JPWERtbnNUQXh6a09XNXhMc0dGNzF0M1dtdXBRR3pHVEpUcFJncmFMc1ptWWxkWmg3OFJITzlVcGFFR3JVQjI3Y2hLUVhIdXY5Z0RfcnRzajViZUdSZks0blVXVVRSRDRqM1JKQThzSlFGblVR0gHPAUFVX3lxTFBKeFV6RzBoY2xGX3BkdGUtdmM0SkFSWXpBemZsbTFBSV9zYm1qa216bTlMT3hNRm52NGVLQjcyVnRyU1lNdW1iOGFrMGcyUFRVMXhEWkZnNEZ3U0tDYnE1R0VMYXNZdGNwM1N6YWc4MkdoR3hqeWVDNHpLd1l6S1dXTDUweHc4M25YWE1tS2drMFVhVmYzWWxIY1l3aTgtUGx6TlhuRUJXNXlZZ2RKUk1fcjRPQTRZQ25JdE5oNWpyOGkxUm42clN0M3BnZ20yRQ?oc=5",
+      "source": "KXAN Austin",
+      "pubDate": "Fri, 20 Mar 2026 23:08:00 GMT",
       "relevance": "high",
       "youthAppeal": true
     },
     {
-      "title": "오픈AI, 파이썬 도구 개발사 아스트랄 인수로 코딩 역량 강화",
-      "summary": "오픈AI가 파이썬 개발도구 제작사 아스트랄을 인수하며\n코덱스 플랫폼 강화로 앤스로픽과의 경쟁에 나선다",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSTNzQ1R6MDVNVnR0Y3V0eThTZDJRZXdsVm5VU1lyVmQ1RktIVUU5R3RDSl9OMGozSlVYa3REVDR0d2o2eDNCZ0ttZHVYUHIySHBlOFpBLTdWN2k4dm1MNzMwb09GN2dNenA3eXoza2FKVC1UbmFmMWZjRG4tX2Q1OXhaUW11QzVpRWVSWFM5U2VFMnlKZWNtMkM0UkE?oc=5",
-      "source": "Reuters",
-      "pubDate": "Thu, 19 Mar 2026 14:16:10 GMT",
+      "title": "트럼프 행정부, AI 정책 프레임워크로 연방 규제 통합 추진",
+      "summary": "백악관이 AI 규제에 대한 연방 정부 우선권을 확립하는 정책 프레임워크를 의회에 제시했다.\n주 정부별로 다른 AI 규제를 연방 차원에서 통합하려는 시도로 평가된다.",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaThPSXRkNi1HT0RWcmF1MkZ0NW9sbnl4UHJQc0RPWm5ITDZlVW1YRzRzUXd4ZDY5akRNOXZUdllSc3VTSE9janRoS0pJbGdoNTFSTmFzWThpWVF1MXhiOC1qdm10dnBkdVp2emwzTGR0eVA4OVdpa0E0RzIxV05qMGItMl9Fa0t4dWtBYjY4MmZxYlVOTk01dEpvWERJMkhXaVNYVlNTRzZoNTI3NGV3Tg?oc=5",
+      "source": "The Information",
+      "pubDate": "Fri, 20 Mar 2026 14:03:00 GMT",
       "relevance": "high",
       "youthAppeal": true
     },
     {
-      "title": "제프 베조스, AI 기업 변혁을 위한 1000억 달러 펀드 협의 중",
-      "summary": "베조스가 AI를 통한 기업 디지털 변혁을 목표로\n역대 최대 규모의 1000억 달러 펀드 조성을 추진한다",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNzVwYTMxRHpCLUNndDNwYjBGTDFQNzd2dlpDNm5oMk56eDhDTk1XU3ZfRllydWt6bXFtMWQwVWtfNlYtNVFoWG5aTGJyTGs1ZnpWS3I0UWlOR0lrQWhlNG15TW41SnFhd2ZTUVVNbV8zcEZ0aV9LOWlFaUJJaFRWaEJsNTYyZjNNcTMyZDllal9VZw?oc=5",
-      "source": "The New York Times",
-      "pubDate": "Thu, 19 Mar 2026 22:24:10 GMT",
+      "title": "OpenAI, 온라인 쇼핑 실패 후 차세대 전략 준비 중",
+      "summary": "OpenAI의 첫 온라인 쇼핑 시도가 실패한 후 새로운 AI 기반 쇼핑 전략을 준비하고 있다.\n전자상거래 분야에서의 AI 활용 방안을 재검토하며 차세대 서비스 개발에 집중하고 있다.",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNa2pLb1hoNURvU0Z2S1g2VHRiZVJ6QlRucXN6WVpFYkxzZzAwV1ZqWGZMUFg1bUhxYkV6SFotOUh6N3F6a0ZQYmhUOXZSWlJGSGVGWFprcUVvZW5BLVNtVThURDZnRWk3b09LSmtKLU4xUDVuUC1pNjViel9jY1loZzZ2VWxLdHljZHd5Q2NsRzlzY2_SAZgBQVVfeXFMUFFiRGhnMnNJX04zbldhX2FaMEJqT3oybFhMLV9mYlJCMm8tUWJzNjM1bE0zODE2NS1iWS1CRFZKRTJicFhyWEhkT3hwcEZRSGlwNlNiYjNxODlEZ0lhZ3ZKM2JEaERNX0lMVHhpdmM4a0NFN2hYU0lVcElGYTVDUlhzS2hBV2NoYVFJdDBmbU1sTnNXdXRhSEs?oc=5",
+      "source": "CNBC",
+      "pubDate": "Fri, 20 Mar 2026 17:18:25 GMT",
       "relevance": "high",
       "youthAppeal": true
     },
     {
-      "title": "AI 코딩 스타트업 커서, 500억 달러 밸류에이션으로 투자 유치",
-      "summary": "AI 코딩 도구 개발사 커서가 500억 달러 기업가치로\n새로운 펀딩 라운드를 진행 중이라고 보도됐다",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUWxkQm12RTFPNmxmRUc2Sm1fdlNPdVd3VTR4Q05BQ0ZNTUQ0ZVJRWEdDMDhLVkllOHRuaEJUWENoaERtZ3FzeEdBZlJWYlZEVUJJN1FZTl9sM2doRXVBRUxPbTdMMHVabWZlMlI4R0lhSUNWeWh4RWhlTkhPUTlMSml6STBISGR6NDcwX1B0TTBETVRLdnhaTU1vblN0UUJ4NlFnRGU4aGdYaGZZaEZzMFVoaWtQTlZ4aElFeV9GOEdmSXh4djR0RjVJNmVHdlV1S0tHUFlzbnVWdGdIUU14NWl5QUg?oc=5",
-      "source": "MSN",
-      "pubDate": "Thu, 19 Mar 2026 00:31:24 GMT",
+      "title": "OpenAI, 완전 자동화된 AI 연구원 개발에 전력 투구",
+      "summary": "OpenAI가 인간의 개입 없이 독립적으로 연구를 수행하는 AI 연구원 개발에 집중하고 있다.\n과학 연구 분야의 완전 자동화를 목표로 하는 야심찬 프로젝트로 주목받고 있다.",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaktiMXBZbHU1WWV0YUw1c3A1RlloQTJXVGd0eEdQTzA4ZUF2YmZzODFtLWhMU0dKXzkxUXFPOXgwalF1bTlmM3Z6d3JhRzdpeDlZZVRRdWFBeHhTd0dfSUhCUWgwcHVDZkctSVlLZEVjLXdzLW02THh2Mi1DM25SbmFTSlNJOFhTOE9XSERHcFRFbUJfSGFSUDhDSFdrZm43S3FIUnRxVjAtaVpQUVZ6dHVaaWpzMDhFS1haakZ6T1BrU3PSAcgBQVVfeXFMUHl0ZFNoeFlESVdmZHJzTmkzWHQxYmxKbV9KazY3NHpZdGtvMFk5c0VVUExCMU82MmpTX1p3RHJjTDR2VlRBZ01tS0R3TWFBYXV3RDdXLXh4N3FWX1hXWnQ4OEpmcW13NWhybktWdXRFRUxfUldNSGlROEVKTHpwUlhMZHFMTEhJT0dTT1NITEFtV2c5QmR5a3VMaDFMY2Z0LXlCclFWS21DWGxmNjBxaWNsYWZVeGxyRm9Zd1NFUm1hVmxPVTdCVVg?oc=5",
+      "source": "MIT Technology Review",
+      "pubDate": "Fri, 20 Mar 2026 11:57:16 GMT",
       "relevance": "high",
       "youthAppeal": true
     },
     {
-      "title": "AI 석학 페이페이 리의 월드 랩스, 10억 달러 투자 유치",
-      "summary": "스탠포드 AI 연구소 설립자 페이페이 리의 스타트업이\n10억 달러 규모의 대규모 투자 유치에 성공했다",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbHpGNnl6MVNKVVBlUnZOZkNKaUttT2lzNHFCeWNxdGl1Y2tEUTZ3NzAxZTlRRU4zVU82cC1rcnJ1NG12b0RSbkJCY0VJUmxMaXVkUDc0My14Vnd4bVZWNi1mM1lFRnRBb2dRRjlOV2NsVU1rbnA3dERXNXZ5d2dIMFU4VzlDeWlZTkdpcXNoVnBRdlJPa3hPZGtmSzhuYlA4ejE4UUVJMTJHajU5OHRiVg?oc=5",
-      "source": "MSN",
-      "pubDate": "Thu, 19 Mar 2026 11:54:56 GMT",
+      "title": "OpenAI, 데스크톱 '슈퍼앱' 개발 계획 발표",
+      "summary": "OpenAI가 ChatGPT, 코드 작성, 웹 브라우징을 통합한 데스크톱 슈퍼앱 개발을 추진하고 있다.\n사용자 경험 통합을 통해 AI 도구 사용의 편의성을 크게 향상시킬 예정이다.",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWjg5Z3BPaGRMZm5FenFsX3ZQMGRVdEZLS0k0ZzJsSlFBd3FZQmtQZGoxUV90dTVBVXhBbktwc29LS3dHNHE1SFJOVjdXSUIwV29FSWRJLU5XUVpQcVhHZzVma1g0bmNvV3FleFZ0QUNNZVEyYXBkTEduZXJXM1p1cjUtVjJoamROazk0VUR1X19KUi1TUHdPU0Y5OUN6WUZtQWpQUw?oc=5",
+      "source": "The Verge",
+      "pubDate": "Fri, 20 Mar 2026 00:09:00 GMT",
       "relevance": "high",
       "youthAppeal": true
     },
     {
-      "title": "사우디아라비아, 2026년을 'AI의 해'로 선포하며 글로벌 야망 드러내",
-      "summary": "사우디가 AI 분야 글로벌 리더십 확보를 위해\n2026년을 인공지능의 해로 공식 선포했다",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNN0xxX25YQTlld0ZkcFlBRW1kUTNSU01JQU1HazBKZ2RRZDBwTEpMd2Y2UDE3X0VYdFJwMHJudmctOFRydmQxUENfb0cxVUpuTDZyc004UjA5WDZFLUZuREZpUFYxdG5RcmdhNFhNSGN1QjZmcDdRWGlfeVcweWJvcldZcV9tSG1SSS0zMC1aSTNNeVFQdFdzM3doNHgzSHhaUklIQWtNalp1X2s4RjcteGN6elVFc3p5d2xPWHNZMnQ3QQ?oc=5",
-      "source": "Fast Company Middle East",
-      "pubDate": "Thu, 19 Mar 2026 19:35:01 GMT",
+      "title": "엔비디아 GTC 2026, 에이전틱 툴과 AI 칩이 주목받아",
+      "summary": "엔비디아의 연례 컨퍼런스에서 AI 에이전트 도구와 차세대 칩 기술이 핵심 주제로 떠올랐다.\n'AI의 슈퍼볼'로 불리는 이번 행사에서 업계 미래 방향성을 제시했다.",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdjVFTVRuU3k3cVE4Sm5DMlBoX284Q0UwVkNaR3FfTzRRekJWdy0zQnM1bkxJOUNlM08yVndTZTF1WW1hamdMaGNFaHByam9IYVYzeWNKdTJ2d0VqX1Q3eWtRcUJDVU10SkpGR2ZqNUVEbTJ5NzRyRUpaY2xLZ1M0M0NUcklheTI5dmZN0gGQAUFVX3lxTE82YUIyY0JoWG5VM3dSSDVJVUoxLVZJa3JyaWpfWWJLdlVfZjlIaDZwdDVKZXVleG5qZlFQdU54cTJtWVRXbDhYZ0pSMEZTUENuZkFHV2FuMVVrTHR4dTk0QlJkNmxHd3M0X0FmRkh4OGEyYnFvNmpKWmJCQmFoMzJTRGI3eFhqRENCNFdwRzNkdA?oc=5",
+      "source": "CNBC",
+      "pubDate": "Fri, 20 Mar 2026 12:03:14 GMT",
       "relevance": "high",
       "youthAppeal": false
     },
     {
-      "title": "뉴욕주 호철 주지사, AI가 노동자에게 미치는 영향 대응 위원회 출범",
-      "summary": "뉴욕주가 AI 기술 발전이 노동시장에 미치는 영향을\n체계적으로 분석하고 대응하기 위한 위원회를 설립했다",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQd3J6MVpKZEcyTVp0Y0RjNDFRY2t0bG5UMWs0YmVvYWM4MGxlVk5xcWdvR2ZPRnZxYlhxTERYM3FGVXl2empHX29sbTlfdXlnWUNKNnI3ZVBTZTcydlV5ZXQ4UGh5UnpIN3phVFpXanY4X0xpWUZTQ3N4YzBuMXJlMnc3MUl2VkhOYkFPOE42RjlKQWlZOFk1NnFtSDVJUGZfTjNEMlJJMWxpMlhOaDdZWjVGZUlZaVE4TDZ0Y2RZWmlURDlUSzVaTnZUdGRIR2xvRGxJ?oc=5",
-      "source": "Spectrum News",
-      "pubDate": "Thu, 19 Mar 2026 18:41:00 GMT",
-      "relevance": "medium",
+      "title": "엔비디아, 아마존에 2027년까지 100만 개 AI 칩 공급 계약 체결",
+      "summary": "엔비디아가 아마존 웹 서비스에 2027년까지 100만 개의 AI 칩을 공급하는 대규모 계약을 체결했다.\n클라우드 컴퓨팅과 AI 추론 분야 확장을 위한 전략적 파트너십으로 평가된다.",
+      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNdjI3bjUtc3pya1pidlpwc3hFcGVUZURPcEdjMm90VERxaWlpYzc1cm1mN0Q2d0VncGFGN1ljVXZDNEVTSWhGWG12NDI4VTMzMjBmNm9qWVUxcUYxS1VCVDJTeEdpUjc1dGdfT2hQYmJiclZ1ckpBNk15WGJYYlNQYWVRZ1dQZWVlSGhzclN4LVRXMkFZNnd6RDlHNndUeVJOeE5jVWJmN3J1VWlrOV9WeFFmSFZfdnNyNmxmZ3MwT1poWmxVQkJpU1VreVJFUVdISE1yMW05cUVKc3YydVhPVC1SanhMdWtVc1RCUGV3YXFveG5neG1FLTBsRDJaUlNfQUJYMU84UldESmc2cU0waFlvVnBjX0cyXzhYZzhYTVNRdw?oc=5",
+      "source": "Benzinga",
+      "pubDate": "Fri, 20 Mar 2026 03:49:00 GMT",
+      "relevance": "high",
+      "youthAppeal": false
+    },
+    {
+      "title": "AI 스타트업들, 벤처 투자 41% 차지하며 기록 경신",
+      "summary": "2026년 AI 스타트업들이 전체 벤처 투자 1280억 달러 중 41%를 차지하며 역대 최고 비중을 기록했다.\nOpenAI와 xAI 등이 대규모 투자 유치를 이끌며 AI 투자 붐을 주도하고 있다.",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMFlSTlBsYjFyUFVkRVZYVkJNanJVUFJQVy1iMXg1UV9hRjZJM2Y2YUlpbUlKR2dCaUFWMzNGNTVoR1J0dWx1bHE2SHhxSng4SmV6SVhPVUpCYnVBNnE4MXQ2OXdjaDNudjVuY3NUeEdVSThWeXlQWFlaZHZla0E0NExlNFRXbWdhemtYTWRjU2Nhend2MWlrekk3ZzlBX3ZyWnN6QUVTaGFmdDBJRHIw?oc=5",
+      "source": "TechCrunch",
+      "pubDate": "Fri, 20 Mar 2026 15:41:21 GMT",
+      "relevance": "high",
       "youthAppeal": true
     },
     {
-      "title": "캘리포니아 2400명 의료진, AI 도입 우려로 파업 돌입",
-      "summary": "북부 캘리포니아 정신건강 전문의들이 AI 기술 도입에\n대한 우려를 표하며 대규모 파업에 나섰다",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNN0V6azhsdERXMWx6TGJLRGxLNks5WnpYMld2TzJZVGFKck1jeWxDMkdLRVlXODRxVks4eFZrbXdUMjBjYlJ3RklLZ1ljT0pkcUtZTl9nSlFad0ktUXVUam1vbGotdWNJUHFSYjQzTHhWQTZxc2I2YlJhbXJjT2lvVVlxbC15R0pTbG5yMzVZQ2NjOUp5dnkxaGk0OHAybWZmS1NHTXZoME5NWGRHQTUtWk00bGFfSW1OajhoMHVacGpoUQ?oc=5",
-      "source": "KCRA",
-      "pubDate": "Thu, 19 Mar 2026 23:16:00 GMT",
-      "relevance": "medium",
-      "youthAppeal": true
+      "title": "제프 베조스, AI 제조업 혁신 위해 1000억 달러 규모 펀드 추진",
+      "summary": "아마존 창업자 제프 베조스가 제조업을 AI로 혁신하는 '프로젝트 프로메테우스'에 1000억 달러 투자를 계획하고 있다.\n전통 제조업체 인수 후 AI 기술로 완전 개편하는 야심찬 프로젝트다.",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS2gzNTdHd0EwRkp5aFZfbDRaTkxvLVV1dmg1Y0dhVTVJeHBQT0dDS3AzTkRoUDZ6MzZ4R2owVFZGdlBkM3ptcUFCNGVjZ2JnS1pUeEs0YTBxbVRGdDVkMlNLNm1XeDl5SENrMVQwNExzczkzdXpmbElCeUJCZHo4ZDJrdURubGVlOGpaQ1labWhFVm54clVSWFYyNnczcXp3TnhYZ1BUVWdRX1RWYi14NzRXS3dZNjJNVUNTdmJFTdIBzAFBVV95cUxQbEdhX0ZheDJjNS1ERlF0eTl0cUhPS0UtXzhYVGhUUVc4TnF3ZmhpNFgxa05wWEdXQWZMV0poTUhBWk9sUHJPMktNbWtRUmFpeUlBQy12MWlpUURvbmNVRGVnXzBYMWdWT3ppbnBjQWx0U0EycElHRFN6Q2pmalhJei1jclV3djltMjRYV2I1bE1scWtUdDFSa3M4VGd5OWZ0UXE3ZWNQbE1IUVV4YzBucWxtQVR3cEZfVzhyYk5sYWhqT2dETlhtanBpdGI?oc=5",
+      "source": "Analytics Insight",
+      "pubDate": "Fri, 20 Mar 2026 19:45:00 GMT",
+      "relevance": "high",
+      "youthAppeal": false
     },
     {
-      "title": "샤오미, 1조 매개변수 넘는 차세대 AI 모델 MiMo-V2-Pro 공개",
-      "summary": "샤오미가 1TB 이상의 매개변수를 가진 플래그십 AI 모델을\n발표하며 AI 기술 경쟁에 본격 참여한다고 밝혔다",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQVZOemRBT3UzdF91TU1rQjlvaUozWmo2cEo1aFBQdXVyVUdtU3dFRWdTRGNETENYeUt1ZFVnMXZBVDIzeC02THNudFJ0X0JjcldmZ0E3RjhuN2VaRkZMLTBabVdObVVzcVV1a3NnS2ctbU9xdXNjX2ZPQmNNWXUzWnVjSm1aWVdPeGt4LWxKVV9QWjVkT2pvXzFmQmdXRVplX2JsWnEzQzBGU2hTMFE0?oc=5",
-      "source": "Gizmochina",
-      "pubDate": "Thu, 19 Mar 2026 02:49:09 GMT",
-      "relevance": "medium",
-      "youthAppeal": true
-    },
-    {
-      "title": "AI로 재현된 배우 발 킬머, 신작 영화 '무덤만큼 깊은 곳'에 출연",
-      "summary": "생성형 AI 기술로 재현된 발 킬머가 새로운 독립영화에\n출연하며 영화계의 AI 활용 논란이 재점화되고 있다",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBmSFJXZkVMR0RRMjJZdHlSU2d0ZzJsSERabmlzQ3JycGR5V3Buanp6U19JelJTVE9GNFNzQnpUU0lkbWw4SnBPM28zRHE0WHVSQlg1UGVpTDlINzNGZl8tWDg3ZlR0RlpRczZIa201WWVPRWEz?oc=5",
-      "source": "The New York Times",
-      "pubDate": "Thu, 19 Mar 2026 14:11:00 GMT",
-      "relevance": "medium",
+      "title": "슈퍼마이크로 임원들, 25억 달러 규모 엔비디아 칩 중국 밀수 혐의로 기소",
+      "summary": "슈퍼마이크로 공동창업자 등이 헤어드라이어로 일련번호를 조작해 엔비디아 AI 칩을 중국에 밀수한 혐의로 기소됐다.\n미중 반도체 전쟁 속에서 발생한 사상 최대 규모의 기술 밀수 사건으로 주목받고 있다.",
+      "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxQbjNvSTZvVDVYQ2RmTlZoWVBuZ3hBQnhYTHNjcDQwRk42NFdmcVdGVy1wUVNqbFFieWVfNVpqNlVBSmcxenF0UG4xbmhNQm9IbDFvV1VVU3k0TUNrcmhvRlVPRHdSS2JLRFN1UV9Ld0d1N1FmOERqQVoxdVBSdDRSb2hHUFdDV1QybWZHSWw1TmYtb01wTkNwQ3Y2TkNRU2hwNjU1OGNnMzE0Z3BQWnJIal9WLTVQOWo1VnZrU1N6RUd4Y0JDV3hrUVRhc0xVcUdwYVkyZ0R5XzAtVWY3N1FfMlZtd0l0NEJwcF9RS1ZrZ1o0dmZZRGFoa1BaY0lOTVhPdk9Wc0pWbFp5TXA5QnpVRE5jUzhCRFF2N0ZsUWVZVk1OSTFKX0VXSEVjLU8zemE3MDRvUldnOHNGWVd0T3AzOE42WmdRMnhiVXRpcVUyMHFSbXAxLVdWWmlQZE5mS1BCQnFNWWdyVQ?oc=5",
+      "source": "Tom's Hardware",
+      "pubDate": "Fri, 20 Mar 2026 13:05:10 GMT",
+      "relevance": "high",
       "youthAppeal": true
     }
   ],
-  "updatedAt": "2026. 03. 20. 금요일 AM 08:34"
+  "updatedAt": "2026. 03. 21. 토요일 AM 08:33"
 }
