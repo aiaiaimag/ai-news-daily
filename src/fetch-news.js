@@ -1,11 +1,13 @@
 import { XMLParser } from "fast-xml-parser";
-import { writeFileSync, mkdirSync } from "fs";
+import { writeFileSync, readFileSync, mkdirSync, existsSync } from "fs";
 import { dirname } from "path";
 
 // ─── Config ───────────────────────────────────────────────────
 const TARGET_COUNT = 10;
 const ANTHROPIC_API_KEY = process.env.ANTHROPIC_API_KEY;
 const OUTPUT_PATH = "public/data.json";
+const HISTORY_PATH = "public/history.json";
+const MAX_REPEAT = 2; // 같은 기사 최대 등장 횟수
 
 if (!ANTHROPIC_API_KEY) {
   console.error("❌ ANTHROPIC_API_KEY 환경변수가 설정되지 않았습니다.");
@@ -33,6 +35,26 @@ const QUERIES = {
     "AI chip GPU",
   ],
 };
+
+// ─── 히스토리 관리 (중복 기사 제한) ──────────────────────────────
+function loadHistory() {
+  try {
+    if (existsSync(HISTORY_PATH)) {
+      return JSON.parse(readFileSync(HISTORY_PATH, "utf-8"));
+    }
+  } catch (e) {
+    console.warn("⚠️  히스토리 로드 실패, 새로 시작합니다.");
+  }
+  return {}; // { "기사제목키": count }
+}
+
+function saveHistory(history) {
+  writeFileSync(HISTORY_PATH, JSON.stringify(history, null, 2), "utf-8");
+}
+
+function getTitleKey(title) {
+  return title.slice(0, 30).toLowerCase().replace(/\s+/g, "");
+}
 
 // ─── Google News RSS 가져오기 ──────────────────────────────────
 async function fetchGoogleNewsRSS(query, lang = "ko", gl = "KR") {
@@ -175,6 +197,8 @@ function extractOriginalUrl(googleUrl) {
 async function main() {
   console.log("🚀 AI 뉴스 수집 시작...\n");
 
+  const history = loadHistory();
+  const newHistory = {}; // 이번 회차 히스토리
   const results = { domestic: [], global: [], updatedAt: "" };
 
   for (const category of ["domestic", "global"]) {
@@ -207,17 +231,28 @@ async function main() {
     try {
       const curated = await curateWithClaude(allArticles, category);
 
-      results[category] = curated.map((item) => ({
-        title: item.title_ko,
-        summary: item.summary,
-        link: extractOriginalUrl(allArticles[item.index]?.link || ""),
-        source: allArticles[item.index]?.source || "",
-        pubDate: allArticles[item.index]?.pubDate || "",
-        relevance: item.relevance,
-        youthAppeal: item.youth_appeal,
-      }));
+      // 중복 횟수 초과 기사 필터링
+      const filtered = curated.filter((item) => {
+        const key = getTitleKey(item.title_ko);
+        const prevCount = history[key] || 0;
+        return prevCount < MAX_REPEAT;
+      });
 
-      console.log(`  ✅ ${results[category].length}개 선별 완료`);
+      results[category] = filtered.map((item) => {
+        const key = getTitleKey(item.title_ko);
+        newHistory[key] = (history[key] || 0) + 1;
+        return {
+          title: item.title_ko,
+          summary: item.summary,
+          link: extractOriginalUrl(allArticles[item.index]?.link || ""),
+          source: allArticles[item.index]?.source || "",
+          pubDate: allArticles[item.index]?.pubDate || "",
+          relevance: item.relevance,
+          youthAppeal: item.youth_appeal,
+        };
+      });
+
+      console.log(`  ✅ ${results[category].length}개 선별 (중복 제거: ${curated.length - filtered.length}개)`);
     } catch (err) {
       console.error(`  ❌ 선별 실패: ${err.message}`);
     }
@@ -233,6 +268,11 @@ async function main() {
     minute: "2-digit",
     weekday: "long",
   });
+
+  // 히스토리 저장 (7일 넘은 항목 정리)
+  const mergedHistory = { ...history, ...newHistory };
+  saveHistory(mergedHistory);
+  console.log(`📊 히스토리 항목 수: ${Object.keys(mergedHistory).length}`);
 
   // 저장
   mkdirSync(dirname(OUTPUT_PATH), { recursive: true });
