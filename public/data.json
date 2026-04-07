@@ -1,5 +1,187 @@
 {
-  "domestic": [],
-  "global": [],
-  "updatedAt": "2026. 04. 07. 화요일 AM 08:39"
+  "domestic": [
+    {
+      "title": "오픈AI, 초지능 시대 대비해 정책 제안...주 4일 근무·로봇세 도입",
+      "summary": "오픈AI가 초지능 AI 시대를 대비해 주 32시간 근무제, 로봇세 신설 등을 제안했다.\nAI가 인간 일자리를 대체할 미래에 대한 구체적 정책 방안을 제시했다.",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNW5XbEp5ODM0YVlUamJ4SUpmcGZiNmtjQWVLNGxONFJOR1F6TnZwWEJlRW5MbmJscC1sb0FXMENwUG83b3Qwa0ZFdmxZTkpvQXVELW9aVEh1Y0l1Z3B3UDNVVVZLOEJlOFdCQ29KbHJxZktXZTh4dF9rX3FGNDh1Ty1NQdIBlwFBVV95cUxQQ3lhYURLWElla2FEYlo3LUZlM25STFJmdG9jMWdpX21lLWJJR3U0azZyMG1xU1JTckYzUDdxcFllcFNGQ2QtbDdXMzdOOUJYSDFoSU1JWjZPMVdBaEZkeU9mMnpDQUhoRXlybXJTaUkyVU9aUHNBelp0RFplN19VMzZtZlFnWlVsNy1yRm95U3l2RERsRG04?oc=5",
+      "source": "조선일보",
+      "pubDate": "Tue, 07 Apr 2026 05:27:00 GMT",
+      "relevance": "high",
+      "youthAppeal": true
+    },
+    {
+      "title": "삼성전자, 1분기 영업이익 57.2조원 'AI 반도체로 새 역사'",
+      "summary": "삼성전자가 1분기 영업이익 57.2조원을 기록해 한국 기업 사상 최대 실적을 달성했다.\nAI 반도체 호황으로 메모리 사업이 폭발적 성장을 이뤘다.",
+      "link": "https://news.google.com/rss/articles/CBMi3AtBVV95cUxQREdGYmJxUGFnc3ROcU9UZm1nYmFPOVprQWdEQVBpNUZEQkRsOU1UdlZnZG1BWlFuNzNSeUhtZGxvUTFGOXZrcE9RMVJhUGhGSXNYQkFXYTNxdGhZejkyWlhmUExBZTFIT1d5UEQyS3FNekZYZFQxMGpOajVXSk5vb0NwSG1uMjNJQ3B1dFZFMmh4MXJTVE1TNGxob1JGaXgyeXNfQWkyLVJlamhsYUJYY0lldGIwVWFMcU1LZ1d4cGRTbU4xV2NEOEhlam1HenYtUUJVby1kM2NjeDlqSUYxcVJ5YXdjZzNXQU1FQ2c5Q01fd0RORXhldEpsUW1ReDk4akp3cjNzQTNrNURaLVktQlVHRXdLQkYwYlVBMEhYUGVoYmU0MERlWi1lME9KbkRzYkJMSUZOTE5ycE9BeUhCNjFBSUZuLVhuUFBzU3hzVXlBb1ZsektWbFAtY2FYVW1aSi1nVm40WENlVnQzbF9TNEFSMWxVNHRTRDBaUGVQOXI2MnoyNlpvV0NuY2JZR1Vtb3NfRGRfbzAyQkxuY0I3WnhDVEg1enUybXZwR05Vc3c5RGRBSy05em44dnY4RVo0akFSZ0dvZmRyVmhSYVFKaDQ5R1FlbE5Zb082Q1d4S01Kd2xVSGJNbWoxUmp0SzRDN2NhbWRpNWU3c1YtVVNnTkU5aEFBU1g0TDVWa3hGWjZwMzYyYUYwTENieTNESFBnLUpZVzhRdEZlZmpzRWJBSUhyS29YMkVsRUdYLThrdmdBOF9TM3hFSTZyYXB4MW04TzNEV1hmaXVoUmZ3T0g0ejUxM1FDSTAxeGVwQnpOR0FxNXdZWHQ0V1Y1OVNNU0FEbEM1NU8xOTdGa3FtWUh3MGpVanR0RF9SbkZESFh3d0kwZlJmVm5xdld2R3NJYkxoNnV1TGhDd2VuYkNNTncyV2l0MlI0WV9maEdUaURZUlVGSnJpN2g5RGNoYW4zaElvbW83UXpNNW1wdTVuUVZLXzJ2NG53Y3h3SklBSm5fRDcxWHJHdU5oQU41djloZDd5RVBLcldQMkthNUtibGVFMFhud1dnX2xKX3ZoMjB2QlJVSWdEWlVEX3haX0puTU1KaWhkMGEyWnhrejhqR0wxNWlXbGhvYTNHdldPQl9qVDBEWUh6WXBaNFZISlJkWDZMc3RQY0cwQW1qY3BYRi14WXVrQlJwSGZnMVlrZ1NHblVvVWtRS2ZCYVFEZUdZUnJnZTRTTXlzY3FxNWlDV09neVdscHhsd21MUkd2LTEwWERlOXNqbEYxY3M2OW5FX3BEd1hWMm1QOXBwampaaUZISGxjYjdfMHRzWU11ejBCcE5JQTR4U3ROVXctc3d5Q2UybjNlcU5PUzRWenFPU1pyQzhpS1NmMXdnUjk0UzlZQVhlSElMUkxHbmg4SVNxcVpRSTViRUh6c3h4Y2tEcVUyQUFyTlZLQUQwUjNYN0o1LXAxTzlVWDNlVGI4aUdBWjFyN0t4Y2hoVXE2dDRjYjdlOTRtdktSSnJrZWJsWnltc0FlTThET1luWHBlUWFUakxoQTFoaWVsSW14bmdPaXdFQnp2RF90WXNDSHVCbjNwQmh6VVhSQVhNZHhLdFQ2WHhrbUFaLW16U0F4X3lPNksxc3dKdl9LQ0pyQWJiY2UxRzhOYzU1d0VtV2J4T1FCUTQ3d0gxM1lzV05TNzg5OHgwT3Y5V3I2ZjNIaTJ5U1RzN1JuTUZ6QTJnaUYxbmVRRVJDTVR1c21FcjlYQmJYNGV5bHRfczNkdUdzUHhwQm8xeUc2cUUxZWxaYjNabGF2YnRIdFlsZEZ3bTdJSE9hbFNUblVyUFV4NXhwdm5YUHFURGRla2JReXk3MjlOeTJ4Vzd4ODVIcU1waWFRcUNldk5sYzB3SllyZzRCSEdEcmprOFAyUEQxVkw2Z2V4bFlQUlpScG1hTXNpcmVoRlk3S0IxZ2U2dmd0MG45TlM4bllYN2RJeUVQMU16VEt0NFM?oc=5",
+      "source": "전자신문",
+      "pubDate": "Tue, 07 Apr 2026 04:28:56 GMT",
+      "relevance": "high",
+      "youthAppeal": false
+    },
+    {
+      "title": "정용진 AI 커머스로 '원스톱 쇼핑' 승부수, 이마트 약점 극복 무기 될까",
+      "summary": "신세계그룹이 오픈AI와 손잡고 챗GPT를 활용한 AI 커머스 서비스를 시작한다.\n이마트의 가격과 배송 약점을 AI 기술로 해결하려는 전략이다.",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5xNUFJVDhiYXhERXZGNVZ1d081WTZ4T1ViOHl6akdmajVicGJHMHR0RUhmQmFhZGJWcnFyX1VYN29KZV9LMVRpYVNFV29GVDUxaU9VWW5tY0JTSFRkMVVITXdYcUhHbl9mRXBGQkVCZkdGV2M?oc=5",
+      "source": "비즈니스포스트",
+      "pubDate": "Tue, 07 Apr 2026 06:25:37 GMT",
+      "relevance": "high",
+      "youthAppeal": true
+    },
+    {
+      "title": "韓 AI반도체 유니콘 레이스...국민성장펀드가 불붙였다",
+      "summary": "국민성장펀드 투자로 한국 AI 반도체 스타트업들이 유니콘 기업을 향한 경쟁이 가속화되고 있다.\n정부 주도의 대규모 투자가 AI 반도체 생태계 성장을 견인하고 있다.",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAyaHRHVFFXMzBVWmJzLTNhMXRQYm05Z0dRbUdlaUUzRjFKZldtbzBNZUZlbXJmSDVpQThGT1QyUzg2bkphZUJlT18yYmRDZw?oc=5",
+      "source": "전자신문",
+      "pubDate": "Tue, 07 Apr 2026 08:00:00 GMT",
+      "relevance": "high",
+      "youthAppeal": true
+    },
+    {
+      "title": "오픈AI·앤트로픽·구글, 중국의 'AI 베끼기'에 연합전선 구축",
+      "summary": "미국의 주요 AI 기업들이 중국의 AI 모델 복제를 차단하기 위해 공조체제를 구축했다.\n글로벌 AI 기술 패권 경쟁이 본격적인 기술 봉쇄 단계로 진입했다.",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5lM28xNS1wV240UEwzU2RCTDY4UDcwTEZWeDFhWWlNVHZ4ZHFTcjJSM2pfM1hCWFFMM0FnOGlSeFpGVEtrZU1RdWY1MVBMcnZIQ1pad1REU2FUQlhhSE9GaNIBYEFVX3lxTE5lM28xNS1wV240UEwzU2RCTDY4UDcwTEZWeDFhWWlNVHZ4ZHFTcjJSM2pfM1hCWFFMM0FnOGlSeFpGVEtrZU1RdWY1MVBMcnZIQ1pad1REU2FUQlhhSE9GaA?oc=5",
+      "source": "연합뉴스",
+      "pubDate": "Tue, 07 Apr 2026 00:28:59 GMT",
+      "relevance": "high",
+      "youthAppeal": false
+    },
+    {
+      "title": "한국딥러닝, 금융 문서 AI 출시...\"심사·검증·입력 자동화\"",
+      "summary": "한국딥러닝이 금융권 특화 문서 처리 AI '딥에이전트 for 금융'을 출시했다.\n대출 심사, 서류 검증 등 금융 업무의 자동화 솔루션을 제공한다.",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHN2lsaVMwdUhtQ0dvQjBtdEdycG04dS1rUllRT2FkWV9GZlNyQmktNTRFNHhBV1hselh5dEd0RU03NkZ6cERMMGR0bHd0Nk01ZDFWdWF3?oc=5",
+      "source": "지디넷코리아",
+      "pubDate": "Tue, 07 Apr 2026 05:07:44 GMT",
+      "relevance": "medium",
+      "youthAppeal": true
+    },
+    {
+      "title": "AI 솔루션 '위플로', 55억원 규모 시리즈 A 투자 유치",
+      "summary": "국내 AI 스타트업 위플로가 55억원 규모의 시리즈 A 투자를 성공적으로 유치했다.\nAI 솔루션 분야에서 스타트업 투자가 활발히 이뤄지고 있다.",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE04Y0hPMHg1Q1UtcUJrQlFITS1URngwNFNPRDZtdjlTRGhIYkhqVXkwTkdrdERUeGg0R3B2Tkk4WHRDRGI5UnNhSjhzdTF3YmZfU2lZeHAtMkE4VmszWXdkUEhnUGFYYkR0Um5jVmMzaTg3by1C0gF0QVVfeXFMTThjSE8weDVDVS1xQmtCUUhNLVRGeDA0U09ENm12OVNEaEhiSGpVeTBOR2t0RFR4aDRHcHZOSThYdENEYjlSc2FKOHN1MXdiZl9TaVl4cC0yQThWazNZd2RQSGdQYVhiRHRSbmNWYzNpODdvLUI?oc=5",
+      "source": "이뉴스투데이",
+      "pubDate": "Tue, 07 Apr 2026 00:28:00 GMT",
+      "relevance": "medium",
+      "youthAppeal": true
+    },
+    {
+      "title": "서울대 도재영 교수팀, 통합 AI 파운데이션 모델 개발 세계 최초 구현",
+      "summary": "서울대 연구팀이 글자부터 영상까지 처리하는 올인원 옴니모달 AI를 세계 최초로 구현했다.\n다양한 형태의 데이터를 통합 처리하는 차세대 AI 기술 돌파구를 마련했다.",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVZ0NNdWJsUFJNekI3MEdsNEJ0djZ1bXN4QzhSd2h5dk1LWjFaTFQ2cU0tT2tMWG5oY1pWNGJNSnkxTElQaW41NnVrMDY3Nk9yOElIYXZqMUFZREIyNktsT3JfclV0X0E?oc=5",
+      "source": "인공지능신문",
+      "pubDate": "Tue, 07 Apr 2026 01:14:26 GMT",
+      "relevance": "high",
+      "youthAppeal": false
+    },
+    {
+      "title": "프리즘ML, 1비트 LLM '본자이' 발표...극단적 압축에도 모델 정확도 유지",
+      "summary": "프리즘ML이 1비트로 압축한 대형 언어모델 '본자이'를 발표했다.\n극단적 경량화에도 모델 성능을 유지하는 획기적 기술을 선보였다.",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9mVEJYNmdLQ2dfdVcyLU5uMUN2dVFoSXdiTW5VTDRxWGJMMUsxdDhDYVRFN0ppTFFfQTJ5MXpDYmNUc1Z5dEh5V0pwWURQcHhiUWRyOWtmYmYtTEVfNkdveV9lMUdUdw?oc=5",
+      "source": "디일렉",
+      "pubDate": "Mon, 06 Apr 2026 15:37:59 GMT",
+      "relevance": "medium",
+      "youthAppeal": false
+    },
+    {
+      "title": "카카오페이, 생성형 AI로 맞춤형 '소비 리포트' 제공",
+      "summary": "카카오페이가 생성형 AI 서비스 '페이아이'에 개인 맞춤형 소비 리포트 기능을 도입했다.\nAI가 개인의 소비 패턴을 분석해 맞춤형 금융 인사이트를 제공한다.",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE50bk5MWFNJeEI0cmcyWGZQOVlpUWtCby1KcEpvQmNUdTJ2dmdqQjFYY0JPb1dMZzVpejJkNURWSDlDY2M0enhLT0pFd0ZMWm8?oc=5",
+      "source": "v.daum.net",
+      "pubDate": "Tue, 07 Apr 2026 01:30:56 GMT",
+      "relevance": "medium",
+      "youthAppeal": true
+    }
+  ],
+  "global": [
+    {
+      "title": "OpenAI CEO 샘 알트먼, AI 슈퍼인텔리전스 시대를 위한 경제 정책 발표",
+      "summary": "4일 근무제, 로봇세, 공공부 펀드 등을 제안.\nAI로 인한 일자리 변화에 대비한 사회안전망 강화.",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUnNWZ0hwN0dDQS1SSlFrODdMWjZmaVE3aUZUcWwweVBwcHY5RzZtcF9sUVdMY1JOdlBNRTAwM1lseVZNd1prdWk0LWd4cUtjTy1reVROSzRSREFoUFR5ZGpMWTBLWldIemdCYU45Q3prZkxobDFpYXkwa1lPcWdsdFllUHNoUdIBiwFBVV95cUxQZXV5aUV6Yk9BTjdyUzVxMm1rQndTRDFmY3Qzal95X0dMQkJudEpfZTlkakt0eGMxZUtvWEhrT2VJOGV1TlVuWF9oV2N6MnRwU2dSWUlvSHFxN1c4MDdBQmdxZEFjd1JjMHJxLUdaRm8waVBibG4xU2hUVEhhbUlqUk1Tb2E4ZFMyMzZB?oc=5",
+      "source": "The Hill",
+      "pubDate": "Mon, 06 Apr 2026 15:29:00 GMT",
+      "relevance": "high",
+      "youthAppeal": true
+    },
+    {
+      "title": "브로드컴, 구글과 2031년까지 AI 칩 공급 계약 체결",
+      "summary": "Anthropic과도 계약 체결, AI 반도체 시장 재편.\n엔비디아 독점 구조에서 경쟁사로 부상.",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPRHZwUFNBZDRxX2NGcWtJSnduZXBuWldVZzI0QzVhX1BmWmZ6c241OE1yZksyUnlScE9XbmtyWHhmcDU4SDU5NzJsWFp4akI4RXN1MDR1XzdwSnJ0QmVhZHRlZzFjNThuSEprcG1VY2xDclFJRjRoS2I0X0ZaVWFiLVNBTks0cmRDYzBvWVpGUWpHMFZpYVRjRzMxXzJ6TjFIdGNGWllnZGpDc3RrWUVBOXNmOGIxVDVJUDAtSk5XZHIzS2V0bXZMczBRWjIxeXZ4M203bVdHX3NySWNMc0wyeTlCYkZxd9IB5gFBVV95cUxPRHZwUFNBZDRxX2NGcWtJSnduZXBuWldVZzI0QzVhX1BmWmZ6c241OE1yZksyUnlScE9XbmtyWHhmcDU4SDU5NzJsWFp4akI4RXN1MDR1XzdwSnJ0QmVhZHRlZzFjNThuSEprcG1VY2xDclFJRjRoS2I0X0ZaVWFiLVNBTks0cmRDYzBvWVpGUWpHMFZpYVRjRzMxXzJ6TjFIdGNGWllnZGpDc3RrWUVBOXNmOGIxVDVJUDAtSk5XZHIzS2V0bXZMczBRWjIxeXZ4M203bVdHX3NySWNMc0wyeTlCYkZxdw?oc=5",
+      "source": "The Economic Times",
+      "pubDate": "Tue, 07 Apr 2026 00:20:00 GMT",
+      "relevance": "high",
+      "youthAppeal": false
+    },
+    {
+      "title": "Anthropic 매출이 300억 달러로 OpenAI 추월",
+      "summary": "Claude AI 모델의 빠른 성장으로 매출 급증.\nAI 시장에서 OpenAI 독주 체제 변화 신호.",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWkJxVlExdkpXN2YxQzFIaFJ4VUlnWEdwYXZFNzA5aWV6Qno1c0hjRTExaGQwY0hDTV9odEdSNDV3elVUZ3FNZEpYbmtaSXBfNWp3OUVaOF80RlFaT0hHeTEtOVMwM0lVX2swRjN4X2QzYnl1WG55U3ZjWF80YnVKWGhSejZ1eVd1ZU50VWtja1hLQdIBkAFBVV95cUxPd29UMDR3aW5qdXRRczYtOGNMMl9ZaTYwRUdFOXhSNTFlU0trenVhQm9udUtKU0F1dmZlRng5R0s1YUlYamh3SVBDQmJBd0VCWUVxWEtja0M0SUZsRWxnalpodnZqbVhrQlZpWUNwZ0pyU0I2SXpCY0tvZHFpZXZ4YnlXbXBrRUxVQklDZXByYWM?oc=5",
+      "source": "Neowin",
+      "pubDate": "Tue, 07 Apr 2026 04:00:00 GMT",
+      "relevance": "high",
+      "youthAppeal": false
+    },
+    {
+      "title": "OpenAI, 일론 머스크 '반경쟁 행위' 조사 요청",
+      "summary": "1000억 달러 소송 앞두고 캘리포니아 주정부에 조사 요청.\nAI 업계 최고 거물들 간 법적 분쟁 심화.",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUmhvSXpYOVVlY0wtc2lVaWlnRVpwTnpJSVBlR3FWbGRFeW5YdEhqeGxvWlhqbTI0NGF2VVdYOXpMSS02RmwtOUVWNC1fQUM1MW5FRS1oMXdpTXNvWWRNa0s2TUc2ZUVlUEN6eUR2Ylg2SFhFVzRzQ05qTUg0a1dWYVRhTHdNVFhlb2ktaGdTVGpkRC1sR3I5SWNqdGZabkZhX0lXc1d6d9IBrAFBVV95cUxQbzBJMHZBYnpoX1R5S2kxdDBJR3pEUm1iMnh2eHdJelR1STRHdzVJNl82TXlfRWk3MVh6SHY3QXVrMnFnel96TTdkQkQ2ZFZJVDhhOWE2Ukh2UmpHaktwWlJVUk1wc3NJX1lJcXJFWmhUaEJaS2dzM09Hem5RM2o2R0dEX3RPZk44WmtuTXZqVnhvNERhLXBKUlloUDZhblZydjVZQ1NVX0RpVjVK?oc=5",
+      "source": "CNBC",
+      "pubDate": "Mon, 06 Apr 2026 20:00:20 GMT",
+      "relevance": "high",
+      "youthAppeal": false
+    },
+    {
+      "title": "Take-Two Interactive, AI 팀 전체 해고",
+      "summary": "GTA 제작사가 AI 기술 적극 도입 선언 후 돌연 방침 변경.\n게임 업계 AI 도입 전략의 혼란 양상.",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VX0JEY0FiWll1VlBsVWxtMHg2TDRpN21KSnBqZ3QtQnpZazZTX1B2Y0I5aGd0TDViZEhaVlhDQ3cyYmFkVkJVWFR0cHpjQ0pDT3FZamdfM2RCZw?oc=5",
+      "source": "WN Hub",
+      "pubDate": "Tue, 07 Apr 2026 07:52:43 GMT",
+      "relevance": "high",
+      "youthAppeal": true
+    },
+    {
+      "title": "AI로 인해 학생들이 전공 변경 고려 중",
+      "summary": "AI가 대체할 수 있는 전공에서 이탈 현상 증가.\n취업 시장 불안감으로 실용적 전공 선호도 상승.",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQT1RDbGlLRlF0a0xRVHFjUGFaa3QyWkxxWTNBcHZvS2hiSkRnU3RVOV9nU0dtS0RCOXd0dkVTX0hmdHM5RG1XeEM1Mm5jTUF3c3QxU21oSGxlalVJZ0FRd0RQTFllWTdNYWJuSlpvN0ctU0RpOEQ0NnVycXhOMWdSYWtGM1ZydnJqN0laWU8zbzIwYTdsM1NPRw?oc=5",
+      "source": "poetsandquantsforundergrads.com",
+      "pubDate": "Tue, 07 Apr 2026 02:24:57 GMT",
+      "relevance": "high",
+      "youthAppeal": true
+    },
+    {
+      "title": "전 OpenAI 임원들, 1억 달러 규모 VC 펀드 출시",
+      "summary": "'Zero Shot Fund' 설립해 AI 스타트업 투자.\nOpenAI 출신들의 창업 생태계 확산.",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZ1BSQUJEemprX2lfQkkzT2kwWHhEOWxYdHJJV3dJSkJRcHNtNUlWeVk5M3BLdmZGTWRnQzdqcjhweE8xbHAzRlRvcWpydkhEY2VmVFp6eUdOZGVXaGtIRHJaUmN3cU1ISmoxX2RSUDNYbEVSS01CTW1vb1pNMHNUWVVuSFAzTUlDSGNQWGtWN19aeFV4QXV1d3RoV1R2MG1rZzcyVlZXaFRocWxyU1p4Z1RyWjVfWkJSRDNCdE4wOWdvQQ?oc=5",
+      "source": "Elets CIO",
+      "pubDate": "Tue, 07 Apr 2026 07:57:06 GMT",
+      "relevance": "high",
+      "youthAppeal": true
+    },
+    {
+      "title": "AI 코딩 도구 Cursor, 500억 달러 기업가치 평가 협상 중",
+      "summary": "개발자들 사이에서 폭발적 인기 끌며 투자 유치.\nAI 코딩 도구 시장의 급속한 성장세.",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRWUyeXBtbk9rTzVnR0VZd2ZTVzZCeENUX2hVVkJtUTlqOUlIaWxnb1oyRy1XYTdBY2syZUNyYUlKWGNqOWM2WEZnYzNuQlQ4TUhScXVqSDU2MlA2eVhFR0R2Tno3SjNyX1h1S0ZheGZqTnEyTVp4QjdOSklMbzdFWGhPWU02NktWcGRyLW9ybmlSWkMyb2ZiWlhxa29hZnR6ZE1iWUQtdHVvUVhwVjhoY3ZMbW43VTczdVlLYTV5MXN3dHZvUFA3V3RMeWtpTkVSek1n?oc=5",
+      "source": "MSN",
+      "pubDate": "Mon, 06 Apr 2026 09:42:04 GMT",
+      "relevance": "high",
+      "youthAppeal": true
+    },
+    {
+      "title": "2026년 AI가 채용 둔화시킬 수 있다는 새 보고서",
+      "summary": "AI가 일자리를 완전히 없애지는 않지만 신규 채용 감소.\n청년층 취업 시장에 중장기적 영향 우려.",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVHprdVVETG04M0VvYWM2UGVOaUtPU3p1dkdkc2ppWVB3MUY3b1ZPMVZiVDRQNnVvaUZrSDdkSXQtUXdhNGZPREVRUmE3M0x0U0NCMlBDU0VsRmxUUWRWaF93REpHZmRSdmZHaE90NGlHcUdYVEFnWlZUd1FfRWZKNGR5T1NTOVg3QUU1SkF4M2tnSHI1cE9UYllNeGdkc3pmWnlwM0xXNTdHZHViaTkyeWtkektuTzNJRjVDSmtSOUJtWm_SAcMBQVVfeXFMTVR6a3VVRExtODNFb2FjNlBlTmlLT1N6dXZHZHNqaVlQdzFGN29WTzFWYlQ0UDZ1b2lGa0g3ZEl0LVF3YTRmT0RFUVJhNzNMdFNDQjJQQ1NFbEZsVFFkVmhfd0RKR2ZkUnZmR2hPdDRpR3FHWFRBZ1pWVHdRX0VmSjRkeU9TUzlYN0FFNUpBeDNrZ0hyNXBPVGJZTXhnZHN6Zlp5cDNMVzU3R2R1Ymk5MnlrZHpLbk8zSUY1Q0prUjlCbVpv?oc=5",
+      "source": "dqindia.com",
+      "pubDate": "Tue, 07 Apr 2026 08:07:02 GMT",
+      "relevance": "medium",
+      "youthAppeal": true
+    },
+    {
+      "title": "Flowise AI, 심각한 보안 취약점으로 1만 2천개 인스턴스 노출",
+      "summary": "CVSS 10.0 최고 등급 취약점으로 해킹 공격 받고 있어.\nAI 도구 보안의 심각한 문제점 드러나.",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMmV2elZDZ1d0eWFXU2prMHQweUZ4b2tPbEk1cWtFY0ktWHgxcXZ0XzlGdUc4em50UVBDMmtyaC1QMF80UjNjTVpjSVpLckFvUG9xUDloVkFOLWNPcDN5OTA2YkZRVmF1YzlXVG5mdzc5dTR2LUVxRkdKNy1WeWhaV3p3?oc=5",
+      "source": "The Hacker News",
+      "pubDate": "Tue, 07 Apr 2026 05:56:00 GMT",
+      "relevance": "medium",
+      "youthAppeal": false
+    }
+  ],
+  "updatedAt": "2026. 04. 07. 화요일 PM 05:51"
 }
