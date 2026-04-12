@@ -258,6 +258,12 @@ async function main() {
     }
   }
 
+  // 선별 결과 검증 — 두 카테고리 모두 비어 있으면 실패 처리
+  if (results.domestic.length === 0 && results.global.length === 0) {
+    console.error("❌ 국내/글로벌 모두 선별 결과가 없습니다. 빈 데이터 저장을 중단합니다.");
+    process.exit(1);
+  }
+
   // 타임스탬프 (KST)
   results.updatedAt = new Date().toLocaleString("ko-KR", {
     timeZone: "Asia/Seoul",
