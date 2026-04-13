@@ -221,11 +221,25 @@ JSON만 출력하세요. 다른 텍스트는 포함하지 마세요.`;
     .filter(Boolean)
     .join("");
 
-  // JSON 추출
-  const jsonMatch = text.match(/\[[\s\S]*\]/);
+  // JSON 추출 (코드블록 내부 우선, 없으면 전체에서 추출)
+  const codeBlockMatch = text.match(/```(?:json)?\s*(\[[\s\S]*?\])\s*```/);
+  const jsonMatch = codeBlockMatch ? codeBlockMatch[1] : text.match(/\[[\s\S]*\]/)?.[0];
   if (!jsonMatch) throw new Error("Claude 응답에서 JSON을 찾을 수 없습니다.");
 
-  return JSON.parse(jsonMatch[0]);
+  // true/false 외의 JSON 오류 보정
+  const cleaned = jsonMatch.replace(/:\s*true\b/g, ': true').replace(/:\s*false\b/g, ': false');
+  try {
+    return JSON.parse(cleaned);
+  } catch (e) {
+    // 마지막 유효한 객체까지만 파싱 시도
+    const partialMatch = cleaned.match(/\[[\s\S]*\}/);
+    if (partialMatch) {
+      try {
+        return JSON.parse(partialMatch[0] + "]");
+      } catch { /* fall through */ }
+    }
+    throw new Error(`JSON 파싱 실패: ${e.message}`);
+  }
 }
 
 // ─── Google News 리다이렉트 URL 해결 ────────────────────────────
