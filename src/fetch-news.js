@@ -45,15 +45,51 @@ function loadHistory() {
   } catch (e) {
     console.warn("⚠️  히스토리 로드 실패, 새로 시작합니다.");
   }
-  return {}; // { "기사제목키": count }
+  return {}; // { "기사제목키": { count, lastSeen } }
 }
 
 function saveHistory(history) {
-  writeFileSync(HISTORY_PATH, JSON.stringify(history, null, 2), "utf-8");
+  // 7일 넘은 항목 정리
+  const cutoff = Date.now() - 7 * 24 * 60 * 60 * 1000;
+  const pruned = {};
+  for (const [key, val] of Object.entries(history)) {
+    // 기존 숫자 형태 호환 처리
+    const entry = typeof val === "number" ? { count: val, lastSeen: Date.now() } : val;
+    if (entry.lastSeen > cutoff) {
+      pruned[key] = entry;
+    }
+  }
+  console.log(`🧹 히스토리 정리: ${Object.keys(history).length} → ${Object.keys(pruned).length}개`);
+  writeFileSync(HISTORY_PATH, JSON.stringify(pruned, null, 2), "utf-8");
 }
 
 function getTitleKey(title) {
   return title.slice(0, 30).toLowerCase().replace(/\s+/g, "");
+}
+
+function getHistoryCount(history, key) {
+  const val = history[key];
+  if (!val) return 0;
+  return typeof val === "number" ? val : val.count;
+}
+
+function setHistoryCount(history, key, prevCount) {
+  return { count: prevCount + 1, lastSeen: Date.now() };
+}
+
+// ─── 어제 기사 목록 로드 ──────────────────────────────────────────
+function loadYesterdayTitles() {
+  try {
+    if (existsSync(OUTPUT_PATH)) {
+      const data = JSON.parse(readFileSync(OUTPUT_PATH, "utf-8"));
+      const titles = [];
+      for (const cat of ["domestic", "global"]) {
+        if (data[cat]) titles.push(...data[cat].map((a) => a.title));
+      }
+      return titles;
+    }
+  } catch (e) { /* ignore */ }
+  return [];
 }
 
 // ─── Google News RSS 가져오기 ──────────────────────────────────
@@ -112,14 +148,21 @@ function deduplicate(articles) {
 }
 
 // ─── Claude API로 뉴스 선별 & 요약 ─────────────────────────────
-async function curateWithClaude(articles, category) {
+async function curateWithClaude(articles, category, yesterdayTitles = []) {
   const categoryLabel = category === "domestic" ? "국내" : "글로벌";
+  const REQUEST_COUNT = TARGET_COUNT + 5; // 중복 필터링 여유분
   const articleList = articles
     .map(
       (a, i) =>
         `[${i}] 제목: ${a.title}\n    출처: ${a.source}\n    발행: ${a.pubDate}\n    링크: ${a.link}`
     )
     .join("\n\n");
+
+  const yesterdaySection = yesterdayTitles.length > 0
+    ? `\n## 어제 선별된 기사 (중복 회피 필수)
+아래 기사들은 어제 이미 노출되었습니다. 동일하거나 매우 유사한 내용은 반드시 제외하세요.
+${yesterdayTitles.map((t) => `- ${t}`).join("\n")}\n`
+    : "";
 
   const prompt = `당신은 AI/테크 산업 전문 뉴스 에디터입니다.
 
@@ -128,14 +171,14 @@ async function curateWithClaude(articles, category) {
 <articles>
 ${articleList}
 </articles>
-
+${yesterdaySection}
 ## 선별 기준
 1. **업계 주목도 (가중치 80%)**: AI 업계에서 실제로 중요한 뉴스. 새로운 모델 출시, 대규모 투자/인수, 정책 변화, 기술 돌파구, 주요 기업 전략 변화 등.
 2. **청년세대 관심도 (가중치 20%)**: 20~30대가 관심 가질 만한 뉴스. 취업/커리어 영향, 일상 생활 변화, 트렌디한 서비스, 스타트업 생태계 등.
 
 ## 작업
-정확히 ${TARGET_COUNT}개의 뉴스를 선별하고 아래 JSON 형식으로만 응답하세요.
-**중요도가 높은 순서대로 1위~${TARGET_COUNT}위로 정렬하세요.** 배열의 첫 번째가 가장 중요한 뉴스입니다.
+${REQUEST_COUNT}개의 뉴스를 선별하고 아래 JSON 형식으로만 응답하세요.
+**중요도가 높은 순서대로 정렬하세요.** 배열의 첫 번째가 가장 중요한 뉴스입니다.
 중복되거나 유사한 내용은 제외하세요.
 광고성 기사, 단순 리스티클, 품질 낮은 기사는 제외하세요.
 
@@ -199,6 +242,8 @@ async function main() {
 
   const history = loadHistory();
   const newHistory = {}; // 이번 회차 히스토리
+  const yesterdayTitles = loadYesterdayTitles();
+  console.log(`📋 어제 기사 ${yesterdayTitles.length}개 로드 (중복 회피용)`);
   const results = { domestic: [], global: [], updatedAt: "" };
 
   for (const category of ["domestic", "global"]) {
@@ -229,18 +274,18 @@ async function main() {
     // Claude로 선별
     console.log(`  🤖 Claude로 선별 중...`);
     try {
-      const curated = await curateWithClaude(allArticles, category);
+      const curated = await curateWithClaude(allArticles, category, yesterdayTitles);
 
-      // 중복 횟수 초과 기사 필터링
+      // 중복 횟수 초과 기사 필터링 후 TARGET_COUNT개까지만
       const filtered = curated.filter((item) => {
         const key = getTitleKey(item.title_ko);
-        const prevCount = history[key] || 0;
+        const prevCount = getHistoryCount(history, key);
         return prevCount < MAX_REPEAT;
-      });
+      }).slice(0, TARGET_COUNT);
 
       results[category] = filtered.map((item) => {
         const key = getTitleKey(item.title_ko);
-        newHistory[key] = (history[key] || 0) + 1;
+        newHistory[key] = setHistoryCount(history, key, getHistoryCount(history, key));
         return {
           title: item.title_ko,
           summary: item.summary,
@@ -275,10 +320,9 @@ async function main() {
     weekday: "long",
   });
 
-  // 히스토리 저장 (7일 넘은 항목 정리)
+  // 히스토리 저장 (7일 넘은 항목 자동 정리)
   const mergedHistory = { ...history, ...newHistory };
   saveHistory(mergedHistory);
-  console.log(`📊 히스토리 항목 수: ${Object.keys(mergedHistory).length}`);
 
   // 저장
   mkdirSync(dirname(OUTPUT_PATH), { recursive: true });
