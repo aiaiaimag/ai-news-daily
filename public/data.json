@@ -1,187 +1,187 @@
 {
   "domestic": [
     {
-      "title": "코빗, 'AI 퍼스트' 조직 전환 본격화",
-      "summary": "암호화폐 거래소 코빗이 전 직원에 클로드·제미나이 제공\n자체 AI 플랫폼 구축해 업무 생산성 혁신 나서",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5fX1prdGlZOXhuLU9IWUZmeDNWVVhzajFxcWVUdGdYcDdXcXZ3c0pDcGNwVjNSNkllM2tuV1BEZnFQS2tqSFl1V1FiakNNQzladUItQmhDdkI4S1dLTHNhNVR3ZDZLQTdEeEdz?oc=5",
-      "source": "뉴스1",
-      "pubDate": "Fri, 17 Apr 2026 00:23:53 GMT",
+      "title": "전쟁이 바꾼 생성형AI 지형도, 오픈AI '챗GPT' 주춤 앤트로픽 '클로드' 부상",
+      "summary": "미토스 해킹 사태로 챗GPT 시장점유율 하락\n앤트로픽 클로드가 새로운 강자로 급부상",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5aV1l0MnJLTDBUSHY0TWhrdDFNRDlrQjFkRjJQV0xTT0VZTDRTekU1OTI3NmowVGE1cnhOMVpXTG1yaUlZMUhhVEhTUG5sLVZfa0Rhbk5kREJ0VzRMbzdWeGJUZTZIUXdkZFkwaElvaUFkZ3M?oc=5",
+      "source": "비즈니스포스트",
+      "pubDate": "Sat, 18 Apr 2026 21:00:00 GMT",
       "relevance": "high",
       "youthAppeal": true
     },
     {
-      "title": "챗GPT, 한글 파일 바로 읽는다",
-      "summary": "오픈AI가 챗GPT에서 HWP·HWPX 파일 직접 지원\n한국 공공·업무 환경 활용성 크게 향상",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBha0twMVpINUhndmxMaDh0WWhJUlotYnBaSnBWR3FSeWJ2cV96cnlpUmZCSVhpemNpTDJ5WV9pUmFEX2Nzbjh2MGJhaUdEXzZCY3htQkdNNTFUb3g1cjMtNmczUTFSdw?oc=5",
-      "source": "디일렉",
-      "pubDate": "Fri, 17 Apr 2026 08:08:08 GMT",
+      "title": "아멕스, 올트먼 투자 AI 스타트업 '하이퍼' 인수",
+      "summary": "아메리칸 익스프레스가 샘 올트먼 투자사 인수\nAI 결제 시스템 도입으로 금융업계 혁신 가속",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE10c2dtOG1fNzVTX0lGSkVJa3NMcWZiOHY4RDdHNTZ5T3dHRzJUeE1wM2l0SlJMN2ZLaHI2V1JIWTJUTGprNk82NUF3Tm5aWHc?oc=5",
+      "source": "v.daum.net",
+      "pubDate": "Sat, 18 Apr 2026 21:50:25 GMT",
       "relevance": "high",
       "youthAppeal": true
     },
     {
-      "title": "국내 첫 AI 유니콘 탄생, 업스테이지 1조원 돌파",
-      "summary": "업스테이지가 1800억 투자 유치로 기업가치 1조원 달성\n국내 AI 생태계 성장 신호탄 역할 기대",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4yQmJjX2JwdkxOaVhFcUxwaTUxZ0d4eUt6N2xFcW1tTGVDTFlEaDU4dHlqUkNDbE9wa0ROMVZNMVlSWmJtbkV6SFlBdHpMMjlnc29z?oc=5",
-      "source": "네이트",
-      "pubDate": "Fri, 17 Apr 2026 23:06:00 GMT",
+      "title": "AI 코딩툴 커서, 500억 달러 기업가치로 20억 달러 투자 유치 추진",
+      "summary": "OpenAI 코덱스와 경쟁하는 AI 개발도구 급성장\n개발자들 사이에서 폭발적 인기로 유니콘 진입",
+      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBjV2h3cEstWWpoSzZVLTk0czNVZnYtQ3R5dklqM2Zra1pDOUdPTWl3bTF6MGJkSU5TTEp2ZVFUdWo?oc=5",
+      "source": "AI넷",
+      "pubDate": "Sat, 18 Apr 2026 12:29:03 GMT",
       "relevance": "high",
       "youthAppeal": true
     },
     {
-      "title": "신세계그룹, 오픈AI 대신 리플렉션AI와 손잡다",
-      "summary": "신세계가 오픈AI 협력 종료하고 美 리플렉션AI와 MOU\n이마트 등 유통 전반에 AI 기술 접목 추진",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9DNzdBLW85RVh3NlJoZm9oYXlYWkd0V3lqdDZDNTZrV0NWbTNob2tUWTdrQnVPMDJqcVpXb0M1Y2xpcFVQdmpyckprSnNxU2p4NmNmVm5ZQi1EVzhMWUtuQnhZUEdxVElGSDlZSmFGaTFJdkho?oc=5",
-      "source": "연합인포맥스",
-      "pubDate": "Fri, 17 Apr 2026 00:49:12 GMT",
+      "title": "77%에서 56%로 급락한 오픈AI, 독주 체제 흔들리나",
+      "summary": "오픈AI 시장점유율 급격한 하락세 지속\n경쟁사들의 성장으로 AI 시장 재편 가속화",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zUEZ3Ykg5RlNENnN6TXJQS3ZTSWp2bjVyMDRlVm5mTG5BdTFHeGNGNzdiNmhsTVhuMTNMbGE0RU1GUXJXR1doMWFBSXpOOU8xTzBudW9WbTExRXpqOFdiTzNuSXlVQnFEN2dOd0JBdHM?oc=5",
+      "source": "디지털포커스",
+      "pubDate": "Sat, 18 Apr 2026 04:05:30 GMT",
+      "relevance": "high",
+      "youthAppeal": true
+    },
+    {
+      "title": "오픈AI, IPO 앞두고 핵심임원 잇단 퇴사…'재조정·통합 일환'",
+      "summary": "IPO 준비 과정에서 주요 임원들 연이은 이탈\n조직 재편과 통합 작업의 일환이라고 해명",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5jQjhmWmgwYTVaaUhqekFwWXV2dmNSY3dmYTZfWHYwajFJXzJfYTZPQmU5TE1IOVQtdDBUUlRUR2hHSGNKRlR4NkJmZXl6Wml1T0RGLWE5YmRMVEtkbzBmZGYwYlFXUFVvRld2OXU1TmFYTXlGdllFQUVDejA?oc=5",
+      "source": "한국경제TV",
+      "pubDate": "Sat, 18 Apr 2026 18:00:00 GMT",
+      "relevance": "high",
+      "youthAppeal": true
+    },
+    {
+      "title": "엔비디아 대항마 세레브라스, 나스닥 상장 재도전…오픈AI·AWS까지 묶었다",
+      "summary": "AI 칩 전문업체 세레브라스 IPO 재추진 발표\n오픈AI, AWS와 대규모 파트너십으로 경쟁력 강화",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE15WmdxWnJfLXBGWjlRYklMLUhIVERJZnVkYTZmdHk2WVVQLURUeURrZmxFUF9rQVVZRFE5T3ZNcC0zZ3RnOFY4RGNqSkk3Tm8tU005N1hJbk9JR0NlQlN2RVVmMzc1QklTa1lz?oc=5",
+      "source": "kmjournal.net",
+      "pubDate": "Sat, 18 Apr 2026 21:57:27 GMT",
+      "relevance": "high",
+      "youthAppeal": true
+    },
+    {
+      "title": "신세계, 리플렉션AI와 손잡고 'AI 풀스택' 구축…데이터센터부터 유통까지 전면 혁신",
+      "summary": "신세계가 오픈AI 대신 리플렉션AI 파트너십 체결\n데이터센터 구축부터 유통 전과정 AI 도입",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5qU1c3MTVuNlp5ckdSNzIwLWt2Y1hheTNITEF5VmxGODRQWHVKZVpGaXRRS1R2U2dleHJjU3dDUi1DTUZEM0ZPdHc5V3pVMkxCa1M1TENHN25xeXh6VHJVY1RUZ3VGeko4aUpSTDVvTW9ib1JOWlo4?oc=5",
+      "source": "이코노미트리뷴",
+      "pubDate": "Sat, 18 Apr 2026 12:23:59 GMT",
       "relevance": "high",
       "youthAppeal": false
     },
     {
-      "title": "메타, 내달 인력 10% 구조조정 단행",
-      "summary": "'AI 초지능' 중심으로 대규모 인적 쇄신 가속화\n글로벌 빅테크의 AI 전환 조직 개편 확산",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2eUg1c3lzbDhnbTdFbTRESWdCb05Remc2OEpUdV9teGgwdDhGMk5GbFVHZ0t6UXc2MDJrRjhrRzc1d3N5amJ3bTdQT045dVdqdmVPbGg4NkRHTTdOb1Bhb3R5VzJILUk?oc=5",
-      "source": "청년일보",
-      "pubDate": "Fri, 17 Apr 2026 22:41:06 GMT",
+      "title": "AI 투자로 끌어올린 SKT 기업가치, 엔트로픽에 리벨리온 가세",
+      "summary": "SKT의 AI 전략 투자로 기업가치 상승세\n앤트로픽과 리벨리온 투자로 포트폴리오 강화",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ZTURMR3VnZU1Fd1hxZjlSN1lGY3pZckkxTENLUzJWcUt5XzdxVS1ZYWxkREF3bzlXOE5nSmJacm5hWVpTaTlWS1RDZ1NOV0djYy1FbUtB?oc=5",
+      "source": "지디넷코리아",
+      "pubDate": "Sat, 18 Apr 2026 23:01:05 GMT",
+      "relevance": "high",
+      "youthAppeal": false
+    },
+    {
+      "title": "'AI, 해킹 주도권까지 쥔다'…'미토스 충격'에 정부 보안 비상",
+      "summary": "AI 해킹 도구 미토스로 보안 위협 현실화\n정부 차원의 AI 보안 대응체계 구축 시급",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1rSUFxc0VwRjVmYkJrTXI1LVJ3b0lNYTBfcVEtM056QlRvbkl3SGRZaXNfNHhsaFUtNmRDbkpWYXlRc1pKLWJULUxwTDNUV2RiblV6Vg?oc=5",
+      "source": "노컷뉴스",
+      "pubDate": "Sat, 18 Apr 2026 20:00:00 GMT",
       "relevance": "high",
       "youthAppeal": true
     },
     {
-      "title": "호르무즈 해협보다 위험한 AI '미토스' 공포",
-      "summary": "앤트로픽 AI 모델이 금융계에 전례없는 위기감 조성\n전 세계 금융당국이 긴급 대응책 마련에 나서",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB5dThJWUpDRl9fM2JrZHdHYkZuMENGYmV1WF9nY2hQaF9ZcGVua2tpX0l2S3UwazNjdWpYQjhkMEJyT1BhOFBCa1hvbHlZN2ZFUkloWUxjS0kwRmhmdTAyaTEtbE0yUmc2VTVRNUdR?oc=5",
-      "source": "뉴시안",
-      "pubDate": "Fri, 17 Apr 2026 21:37:12 GMT",
-      "relevance": "high",
-      "youthAppeal": false
-    },
-    {
-      "title": "서울AI재단, 'AI 플랫폼' 첫 개방",
-      "summary": "지자체 최초 AI 전문 플랫폼으로 전문가·기업 연결\n서울시 AI 생태계 구축 본격화",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5iT2k5Y2pocDVjV05UaHZ6YWNNRjdTVFRxd05IOGV2VEFoQzZvR1BDUlJWNjNzTE5vLVdrd0JoZzA5SThVejZOUXEzZGVkcG8wVU9LeW9mZGtKdlHSAWBBVV95cUxQSDJTNF9pNHBwbHJvQ3JjMFUxdzZRU3VEUWlQZ2J3bHozcGRCQjE3Nm0wQ1pOSnRfX0NPQzhwTGVNTTE1SWhJY2w3c3gxYTJMN3p6M2tGcE9ZV054cnR4RzA?oc=5",
-      "source": "연합뉴스",
-      "pubDate": "Fri, 17 Apr 2026 02:15:02 GMT",
-      "relevance": "high",
-      "youthAppeal": true
-    },
-    {
-      "title": "네이버 AI, 100% '한국산' 눈 장착",
-      "summary": "중국 기술 의존도 완전 탈피한 자체 AI 기술 완성\n네이버의 기술 자립화 성과 주목",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5lMjUtcUczdnJNWHZpOUtocUtEdkN6NEdPTVRTd3FCNmxZdGlZWE55ZHJMaUhVNWU5XzhZZmJpN3FHTFN3RWptdnplT29YVXROM3ZxRzBFZDQ3QmFzcG44ODZBMnJfcmhPWjJTQXk4WWwwaWRnbmljddIBeEFVX3lxTE5lMjUtcUczdnJNWHZpOUtocUtEdkN6NEdPTVRTd3FCNmxZdGlZWE55ZHJMaUhVNWU5XzhZZmJpN3FHTFN3RWptdnplT29YVXROM3ZxRzBFZDQ3QmFzcG44ODZBMnJfcmhPWjJTQXk4WWwwaWRnbmljdQ?oc=5",
-      "source": "뉴시스",
-      "pubDate": "Fri, 17 Apr 2026 00:51:34 GMT",
-      "relevance": "medium",
-      "youthAppeal": false
-    },
-    {
-      "title": "아우라보이스, 시니어 돌봄 AI 출시",
-      "summary": "자녀 목소리 학습해 24시간 대화형 케어 서비스 제공\n고령화 시대 AI 돌봄 솔루션의 새로운 가능성",
-      "link": "https://news.google.com/rss/articles/CBMi0wZBVV95cUxOUFFlTjN2SlpaR19YM3ZwZ0NiVkRNS29fRnBfcjZKcmdMaWs4dUtJMEdObFFJVzQ0UG4wUWdFU01GcDg3QkJmRjVhc1MtM01OZ25vT182RllOQzE1d3hvb2o5NExjblNUa1F5ajBybXVCbVpRU3U4Qm9zRzVwUG9ObEVIMDlpekVCM2Uybk9MNkt0TnBFeEQwNjgzUmFQS25YUkhSVzZPemxubTdmbHFwRF9sS2FIZnExei1qLXdWeWo4U0taVldaSjI3dzI1OTVvQ0ZnVXRTOEJrYTVsNVY0X1h0Sk03QkxsdFduQnFFMGVXeWJpTkxrWEJRaWlkMzhkNGgzUTJzSnA4cFU5eDB5cGl1SVloM25QR01WTjVuVEZnRWtSX1NWZF84S25fOFZZcFZSWkpPdEpqNVFvSGJDSXhhX2JrdUo3MlF1bzExLVBZQ0RNZlYtdmZyWXpCV2g3ZXo2TTNqRjZOWlZxX2ZCVFlrZmhqRkJFUWxOZENDbWtBMUZOZTd6Y3BqM0ZSMXVuUEpqLTBTbDA3SnRIWWdkTWhNZXp1LWlMMDJzQmRaZ1k4S0w2SnNWZkVGbml0a1NJd2UzMlhCNlJjLUlwUkJZc3ZEakRLa2RISTUwN19VeEV2TGwtVXlTODk4RVNYc3E3eVdCZUZhWTNGcTBrWGY2aU5PTzRWSGl5cVNKQjJVbkRBd2VvbEJMblpUbnhxQmV6M0ppSk5OdjF6QnQ2cGdGeDNJa0pTcUNZOU5FeE54Y3NWcEprbHlRdzJQSmJaaHAtdzhMbmkzWl9LQ1phRFlQSEV1RmpJZmdvOUkzdzhmVm5xUmZnNUh5RGt5aUt6NUJYNWQwaUtieVFJOUd6X1Jwd09ra0JPWlJhOEZsSVZod0dKd3NKck9val9SUnF6WE4wNGVUTXdlaWVWT1lkUnBGOG1NSEM5VDlETy1wMW1rZTNuSFgzS0x3Y0pjRGpqLU1fcURKMjJiMHduLVAzQ2txNjNPRVpMaGNyV0pmUllXdUJfSnZOOGIwLWl0QUFRMFJSSXRQRHM3LWRHZXo4aU8tVGZlQlFfX0JoWTBzY0t6OFFiTEVVbDFOUjdmTHRvNFdzZkVNY0c1djctc3VhNDdiUkl4QQ?oc=5",
-      "source": "한국정보기술진흥원",
-      "pubDate": "Fri, 17 Apr 2026 08:08:15 GMT",
-      "relevance": "medium",
-      "youthAppeal": false
-    },
-    {
-      "title": "라이드플럭스, 국내 첫 자율주행 화물운송 허가",
-      "summary": "자율주행 기술이 실제 물류 현장에 본격 적용\n국내 자율주행 상용화의 중요한 이정표",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5uMGRQWVl0UDJvRHFFSVl2QkNjM3Rpekx0a2w2bUVGelRPX2hSLWg0VFZ4bklNYmh0U2hyTHBIWnBDRFZhQTFQNTlOUkFJTnRvby0w0gFTQVVfeXFMTm4wZFBZWXRQMm9EcUVJWXZCQ2MzdGl6THRrbDZtRUZ6VE9faFItaDRUVnhuSU1iaHRTaHJMcEhacENEVmFBMVA1OU5SQUlOdG9vLTA?oc=5",
-      "source": "서울경제",
-      "pubDate": "Fri, 17 Apr 2026 00:30:47 GMT",
+      "title": "코빗, 클로드·제미나이 품은 'AI 에이전트' 조직으로 탈바꿈",
+      "summary": "국내 기업 최초 AI 에이전트 도입으로 조직 혁신\n사내 데이터 자동화로 업무 효율성 극대화",
+      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE4tVmNNYy05QXhjRUNJa1JJT1A2VVF4VGlzb3ZqTXFqdm52VnFzQWFTU3BXNEEzaVF5MTBJU0R5Z3o?oc=5",
+      "source": "AI넷",
+      "pubDate": "Sat, 18 Apr 2026 13:39:04 GMT",
       "relevance": "medium",
       "youthAppeal": true
     }
   ],
   "global": [
     {
-      "title": "화이트하우스, 안트로픽 CEO와 '생산적 회담'으로 타협점 모색",
-      "summary": "안트로픽의 새로운 사이버보안 AI 모델 미토스를 둘러싼\n정부 규제와 기업 자율성 간의 균형점을 찾는 논의 진행",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMDR2YWJ2Zi1MdFZMeEZuYU5kREc2TC1rS3hPVkF5eDhwSDBLd3JBVl9ET09hSjZaNi12X01CQWl6UlhTU1ZMc3hjbDBnOWRfajVheThWLVFmWV81OU5NYUp3dE5uRnlYaTAzWEtRaS1sNHl6VmU1d3I0Um1pc0M2U3NEUjY1dkFzYmdfUUVya2E5ekU2TUNFVWl5NXg?oc=5",
-      "source": "The New York Times",
-      "pubDate": "Fri, 17 Apr 2026 22:59:27 GMT",
+      "title": "구글과 오픈AI, 데스크톱 AI 에이전트 경쟁 본격화",
+      "summary": "구글과 오픈AI가 안트로픽의 데스크톱 AI 독점에\n도전장, PC 제어 가능한 AI 에이전트 개발 가속화",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNall2amhpYW5TcTdOM1laY1VDM29FcXMwc2t0NE5nWmp3OW1pdk1zMmlvNWhSbXRacWQyako4eDBiVkdMSU12SFZPZ3BBUnpXZHQtYzBLbnQyQnFib0hIMTZNdW5PS0hFd1lUTUkwaTlIMmdVUlhvdXZNZDd4SmVjNzhkdVlWY1BtZ2FlTF9xREdmUHRCR0VQVXFnc085c0NNZzNzd3RCMFI1VElMMC0xdW9UN2w?oc=5",
+      "source": "The New Stack",
+      "pubDate": "Sat, 18 Apr 2026 10:07:43 GMT",
+      "relevance": "high",
+      "youthAppeal": true
+    },
+    {
+      "title": "AI 해고 9개월 후 창업해 즉시 수익 달성한 파운더",
+      "summary": "AI 분야 해고 당한 창업자가 2명 파트너, 12명\n에이전트와 함께 즉시 수익 내는 회사 설립 성공",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUVRQZm0xelV1dEpPVFp4eXBvRHNNd2JPRTJlZkRaT19EenVCU3VLVmJTYW5NLUNOZE1Rdi1JMTVCX0RYOGt6Ym9LX0ZLNzVHZ2lzaDgxakVyeHlybF9kZjJjb2RLdWlWS2ZrZDZMQjJKQ1Joc3JJUkpJNVlNY3Z2NGVaSl8yNHVN?oc=5",
+      "source": "Fortune",
+      "pubDate": "Sat, 18 Apr 2026 11:00:00 GMT",
+      "relevance": "high",
+      "youthAppeal": true
+    },
+    {
+      "title": "커서, 엔비디아 투자로 500억 달러 기업가치 20억 달러 투자",
+      "summary": "AI 코딩 스타트업 커서가 기업가치 거의 2배 상승,\n엔비디아 백킹으로 최대 규모 투자 라운드 진행 중",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPeG40V1dfZ1E2ODhFQkpyTnk2aHZzcVFucG9tdG1NRVE3NG95UnUxQ25ZbWRfSExKcDE2T3RZSkRDbmJnLVczRU0xektXZ0ZLc2tVcHBGcjVDQjdFSDdwUlR2Y0RqSVYxMkU3ckI2VHJseG1kaE9Xc0lQanhJTm9jRFBQTDZERlA5X2loclR3Zk9RRm9JbjJsSHhPQ0ttTlpacHJGQ0ROVkpDWkZJX2RvZ1RxNFJnWnRiRUIzaFdZQUVTM1ZicUpPOVVjZGlMdVNza3ZBbmRmYlcwNXJQLUw3bXloOFlWckh6LTdXdG9XM0tyejFMMFQxeVZhWlVmcHBCSXFR?oc=5",
+      "source": "Benzinga",
+      "pubDate": "Sat, 18 Apr 2026 05:52:25 GMT",
+      "relevance": "high",
+      "youthAppeal": true
+    },
+    {
+      "title": "오픈AI 3대 임원 하루 만에 동시 퇴사, 조직 재편 가속화",
+      "summary": "오픈AI 제품 최고책임자, 소라 헤드, 엔터프라이즈\nCTO가 하루에 동시 퇴사하며 리더십 변화 가시화",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdF9kQU9yWldwTHBOZ1lvUjhTWHEwNzl1eE54NjFCM3J2djZVb2tyWDB4YUlXMXk0OVd1YzhFR25YWkhqTlFlWUNsR19iTC1faE9TZEVvS1Q3bFZtc1pNY0VIQTJXaGlKOVRTZFpOVzNnWDdDT1p0NFhrVkRobGVVSVFvNEZjTkc3TGxQS1lvdmVNZFRyNnc?oc=5",
+      "source": "Business Insider",
+      "pubDate": "Sat, 18 Apr 2026 00:00:18 GMT",
       "relevance": "high",
       "youthAppeal": false
     },
     {
-      "title": "안트로픽 CEO, 해킹 우려로 백악관 방문해 신형 AI 모델 논의",
-      "summary": "새로운 미토스 AI 모델의 사이버보안 위험을 둘러싸고\n백악관과 안트로픽 간 긴급 회담이 성사되었다고 발표",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZk9iMkZSZEx1YWxvRXFzRm9vYWV4RWRaYlJFWjBYSFF2MHhITy10a0ZfbDNrTnptZDY4UTR6UmJZT2NSanpFSGZsMTJKRUdaRmZyOTVrTTF0Z2lKRXItVXpMNHlaak11aVlZbklIcVkwcWppdWs1T0lyakwxU3VTOFU1b1huWXd1?oc=5",
-      "source": "The Washington Post",
-      "pubDate": "Fri, 17 Apr 2026 23:39:57 GMT",
+      "title": "안트로픽, 클로드 오푸스 4.7 출시로 AI 성능 대폭 향상",
+      "summary": "안트로픽이 코딩, 고해상도 비전, 자율 작업 전용\n클로드 오푸스 4.7 출시로 경쟁력 강화",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPekZSV0tobkRNRlRLRnBjOE9VTUt4UFFrenNGNEZ1RUpnQ2R0ZTc3aG12TTM1X1hCOGItbkRpQWlISW9fSEJvVkkwWGpqcVdoTE9SVlRjdGtpTDlEZ3Ezd1NIWmZudnFLN181Y0p3X0ZlNF9SX215d3dpM1d6cTlaQ1J0TTVNX0ktaE1HTjRsZkFHZDFycEJZZUhfcERTN25Nc3VNWm1DWkdhWWJGZDdGWUFBdGU3VTJxbHFxRnJJczJTamk1cTRXdUllYWwyR2p1SFJCQ0M5RktJZGozaWZ6d0NISC1IakNMVXZVVDNyY3VNREsycE1MSUNNRdIBgAJBVV95cUxPVE9aWFpwVkR5MHJuQVB0V3o3YjBabGZGNllVT0p0RUtHaTE2MTJWVXp6ZTR0WW0ybFpVc0JneXBoeDlFWDY5VTktOWU4UDBHdUNINDNTbUFMbHNrYW5rS1RpQkJDNFN5WXRIaEZWbEk1VWJjM2JxdEFHNDFqSjRidHZMZDhBTkFUZ0tiZE4td0dBa2s3TTNQOWMtQUR2dTQ5OGgtV0k3V0ZuU2dqakExWmVhMmlURnZEaFJic1duNDdGclJRR0FzOGVkQWlFVWtfejh2bTItNzM2VndtbF9CaklFdnNCVmRTUmp3V3Q2c2NEWm1DRHB4dGVFR2tqbVcy?oc=5",
+      "source": "MarkTechPost",
+      "pubDate": "Sat, 18 Apr 2026 21:40:03 GMT",
+      "relevance": "high",
+      "youthAppeal": true
+    },
+    {
+      "title": "AI 칩 스타트업 세레브라스, 오픈AI와 대형 계약 후 IPO 추진",
+      "summary": "세레브라스가 오픈AI와 200억 달러 규모 칩 공급\n계약 체결 후 30억 달러 기업가치로 IPO 재추진",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8tQ3hYWi1YR2h5MzRnSGJoS2hUb0h2bk1oSDdDbnJlY0U0NEFVeVV0ZTQ5MEoxOGhyMTBvX2EzUVVWMzA4akk2eHVBLWlGbU54by00V2VBckZYeUlYWnhDZ2FqYUJSOXBxdnhyM2hzQVBBdzg3TlJCRmZrNHBrdw?oc=5",
+      "source": "TechCrunch",
+      "pubDate": "Sat, 18 Apr 2026 19:19:11 GMT",
       "relevance": "high",
       "youthAppeal": false
     },
     {
-      "title": "AI 칩 기업 세레브라스, 오픈AI와의 거대 계약으로 IPO 재추진",
-      "summary": "세레브라스가 오픈AI로부터 200억 달러 규모 칩 공급계약을\n확보하며 기업공개 계획을 재가동했다고 발표",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMjNfRmdmckJLMjZZRDNYQVVTTFFwY21GS1laRU93c0lwTjR6cWRIZUtlMDkzVVFjWm9NUlJweko0aktUMnNfcDQ1SGdZa25La3FISklnR18zbi0yMnZmdkhjRjNUNi1QSk96NGQ1V3ktYVpwcEw1UWRwdmV4dnJIR1R2VzZHREFGM2pyb2kwbFN4SFpEMXNpeGVCUUhoSWRobHh0ZlZFckU?oc=5",
-      "source": "Seeking Alpha",
-      "pubDate": "Fri, 17 Apr 2026 21:17:02 GMT",
+      "title": "갤럽 조사: 일부 직장인만 AI 적극 수용, 나머지는 회피",
+      "summary": "갤럽 설문 결과 AI를 적극 활용하는 직장인과\n전혀 사용하지 않는 직장인 간 뚜렷한 양극화",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWG56QnEtNHpsUUtvbDFhUlIzR29oME1WbTA3eGRJYmlzYk40TjlTOUhSRjA2dV92azFydVFtSUluLWYwRkNJUXVNSGpuVWw5NExXVWk5ZHAxRUg3OWkyN2RXWFVYRHI5TUpHN0E5dXNsdmNCQndNWmlsRHdZWkp0OXVQVk93LV9wLWNBU0FNSzVwbXUyUlc5RFdsNll0eVVtNDVkVjV5N0J5YU5pWlZ2M0xzQ191czlqSmR4LUNuNlFkaTBaREtCSTQzUkMzTVE?oc=5",
+      "source": "Toledo Blade",
+      "pubDate": "Sat, 18 Apr 2026 11:15:05 GMT",
       "relevance": "high",
       "youthAppeal": true
     },
     {
-      "title": "오픈AI, 두 임원 연이어 퇴사하며 리더십 변화 가속화",
-      "summary": "제품 책임자 케빈 웨일과 소라 개발 총괄이 동시에 퇴사하며\n오픈AI의 전략 변화와 내부 갈등설이 제기되고 있다",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4cWFYWlJLM0UzdEJVMVJUa2dOTk9EQ1NPUDl2WFJwenhFbVlKZm1ybDdnd0Zldk0tblM2TnRpMTktNmR4WTJKc3c1Wi1KOXhRQzVicTZnbGd3WERuN2xUa0dCMEc1WUtJSWR5R9IBckFVX3lxTFA3NW5pRjJfUVdmV3pIbzB3dnNJVEQ2NnZRZTh2ZmdpcWNLUjdrcHkzd1YtTkJ3OWFTZDU2aXRBcHU0VUtleXBjeC1KQlg2U1J1cHhwVU9pSHI0T203ZGxQalpFNTVTTGxxcXBQRGhSbk5Fdw?oc=5",
-      "source": "CNBC",
-      "pubDate": "Fri, 17 Apr 2026 21:16:06 GMT",
+      "title": "잭 도시, 블록에서 'AI 확대, 직원 감축' 전략 추진",
+      "summary": "트위터 창업자 잭 도시가 운영하는 블록에서\nAI 도입 확대하며 인력 구조조정 단행 예정",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSTQtOXpyQkhsS1ZIS0J2WTZkOEFtTDlheDBzY1pzSW8taW5tSU5UazJ3Qkw1cy1Id0p1QVphZVQ1YWF2MUMtNnkxcVlpWkRyWXF1OXdGTGRJX0k2SjBSSGdJcjFCeGxOWklXcHF2QVhnMDJJMVhueGlJQ2ZSRmx2MmxtcDhvSjY1QlpQelUxVGV0SkZLSEV3ZGhpV3VCSnpnYjZydW9TZ0JWWFpiY05qTTRVQU5PUQ?oc=5",
+      "source": "inc.com",
+      "pubDate": "Sat, 18 Apr 2026 21:37:50 GMT",
       "relevance": "high",
       "youthAppeal": true
     },
     {
-      "title": "엔비디아 경쟁사들에 기록적 투자 몰리며 AI 칩 경쟁 가열",
-      "summary": "유럽과 아시아의 AI 칩 스타트업들이 엔비디아 독점에\n도전하며 역대 최대 규모의 투자 자금을 유치하고 있다",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeW45eTV5OE53ZnBNbU5tTFNzM1FCb3phNDVVVFR2enhBbHEyMEgyOFZlbDB1cjhWMlk1S2hqNjJvQWg5OWxacGZkNjdQQkltX3NBTEQ1aDJyelBtV2JrNUgybGxNZVU1WXhULW5IbTNMcW9Ud2VCanNwWGpTUGFVRjFMQzVHbGFvZVHSAY8BQVVfeXFMTVMwRVRwUHczVzhVYTdvMUhaMjVrdEJZVU5INGh0TlBvd0dNRl9ONVd5cjZqbXlXSzdRMzN3QlZqUldTbTFMb082YlhLbnZLbVdBNmhSWkJVWVFFbkVVX3I3UkhaVG1URWxYb2ZHUXIxMVBfbWRNM0p5c0hPWWtMbTA4YjhxWmJRVWZFQnhwMDg?oc=5",
-      "source": "CNBC",
-      "pubDate": "Fri, 17 Apr 2026 11:00:01 GMT",
+      "title": "메타, AI 도입으로 8천명 해고 계획 발표",
+      "summary": "메타가 AI 자동화 확대에 따라 전체 직원의\n상당 규모인 8천명 대규모 구조조정 예정",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5PUUM0RXdJMUtYemN3dUM2WUMtbW9oaktlRTFUcHdLWFNJNmhfY2Nxd2thWjhibU1SNWthMVlSYy1PUlFsc2JINmFEONIBS0FVX3lxTE5PUUM0RXdJMUtYemN3dUM2WUMtbW9oaktlRTFUcHdLWFNJNmhfY2Nxd2thWjhibU1SNWthMVlSYy1PUlFsc2JINmFEOA?oc=5",
+      "source": "Наша Ніва",
+      "pubDate": "Sat, 18 Apr 2026 20:36:43 GMT",
       "relevance": "high",
       "youthAppeal": true
     },
     {
-      "title": "AI 코딩툴 커서, 500억 달러 기업가치로 20억 달러 투자 유치 추진",
-      "summary": "AI 코딩 도구로 큰 인기를 끌고 있는 커서가\n엄청난 기업가치 평가를 받으며 대규모 투자 협상 중",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYjgyVlpPUm1TZnliUElaT2dIM3c0Q0tEZnpiMHdUSTdFODBYYUw5alBfUGJMTms5U19QWVBZWktuRHNpUDdXcXB1eE9ydUdZRlRGUzJVeWdwTlNOWkNveUYwaEtFcmt5NGFIancxWTBFT1FVN1RFSUJQcUhyWGQ5QXZGeF9MZHdMY0t4UXp3TGpnVWE3bWEtcUlMZW5obEU4a0pTSnY0Q2tQWEZ0WVh3N1hfRzZOZ05LXzdMcm5n?oc=5",
-      "source": "TipRanks",
-      "pubDate": "Fri, 17 Apr 2026 19:04:07 GMT",
-      "relevance": "high",
-      "youthAppeal": true
-    },
-    {
-      "title": "액셀, 안트로픽·커서 투자사로 AI 분야에 50억 달러 펀드 조성",
-      "summary": "유명 벤처캐피털 액셀이 AI 스타트업 투자 확대를 위해\n역대 최대 규모인 50억 달러 펀드를 새로 조성",
-      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPVkNTWTEwZFY3dmcxZ3VCNFlXT21ieF82Y0wxTm9laHU3QVcwelpwSU02Z1p0c0o4X3hZc0FMb2VhTDVMYmd5azNPNFNwY0k3UTVuQ09saFNDZEg4aFJtZTJucVkza3NvR1h2ZTlfamQ1eTRVNmlOSEd1ek5YYmtHdThlWE44ZFMzMDBXZS1Ud0Q5MnpRTWYxaFNnSUo1Q1VWSXh4REtZRzRvY2MyWU1rZHN0VFJ6YlJxRkpqZHZJbm9kZzhyYWJsV1NKZFlPRk5wakNCaG1JeXNpMFluQlBGZTZ1aVF4VkJCWHdPWlZKQVEyTWQyR0NpUG8wTFFnRG9iTmt2RHFYdHFnNmhNLTRzOEdGd3RwVGdnckUzT2doYXRHTEVvRXR4NExDSTVjb0NRSFRDS0RaMVhGejhpVHRfSlRaZEFPWWV3VmJtRU04bw?oc=5",
-      "source": "MSN",
-      "pubDate": "Fri, 17 Apr 2026 19:15:11 GMT",
-      "relevance": "high",
-      "youthAppeal": true
-    },
-    {
-      "title": "AI 구독 서비스 사용자 현황과 비용 분석 결과 공개",
-      "summary": "CBS 조사에 따르면 AI 서비스 유료 구독자들의\n사용 패턴과 월 평균 지출 규모가 상세히 분석됐다",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPS3VTcmx2d0p6TF9MWk5Fa2pYM1Y0OWVLZGxaTTVjTnc5M0hnNW9mTEM5U2hRSC1PQW5xTi1adGZMbC1kdE9pMFRrSnhSdWRkOE00bnhlQW11MmFjUFRVZVRILUNPTWg0UDE0YU12NzJnY0hYMFBVcXh0UjkteUlEddIBhgFBVV95cUxPU054S2gwdndORWEtNHpHeWhkeW44bmc4cWM4OUd2bm9zVnlLR3lBd2xHSDBYaXJYb3dhaUtrWkl3dnVmaV94emZFakdUSW91azdIdVYzWGZzMld2Ym56ekc1QXBOM2ZPVUdWS2pRTDJ1SWJyeXluaXBpRlhDZGVLWjRBNFRodw?oc=5",
-      "source": "CBS News",
-      "pubDate": "Fri, 17 Apr 2026 14:35:35 GMT",
+      "title": "인도 정부, AI 거버넌스 전담 전문가 위원회 출범",
+      "summary": "인도 정부가 AI 정책 수립과 글로벌 거버넌스\n강화를 위한 고위급 전문가 위원회 공식 설치",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOazhqaFBOb1lzMGkydndvRlJ1UlRlcWlDOUlheWU1eDhkSFh2M0U0VWVYUEpQcTFvdGJkTVJRbjdESGM2UXVhYWQ5bURaZVJUT05CMG42WnZDUzY5OE9zRHlzVVRRb2N6S20tNTFZaTBZNkViVUpBWWdkeGt5MHptY0pqR25SS2J2WGJLMFV0UWZzSjF5SkxIZWp0NlJPUmJmUmJTcXR2OWVHTUJ0ZWw5dzloS1ZfSzlsc1d5Y3c1Y29fVjdmdDRJ0gHMAUFVX3lxTE9GZGk0LVdHNGplbDQtQlExWGhxbzFnZW1nYU80RWEwNlk5MUZEaE5uenRZQ3ljNkxUU3Vub1laVTh5N05VNkNrZkNnU29aa05qLS0zRlNLVFk3Z0xfbk5kRDRYRG00enVnNzFnYm9kTmZzd0wteFMycElvUXFBRkdNVmptLVRxVFFZUEo5UzJRUjM5QXc0ZElNLTExbmV3VWVyTHRrQlpyc1dNS1pOam95bFVKVVZORnV3TFhYdmdMNkVpU0VJS2lweExKYg?oc=5",
+      "source": "The Times of India",
+      "pubDate": "Sat, 18 Apr 2026 13:46:00 GMT",
       "relevance": "medium",
-      "youthAppeal": true
-    },
-    {
-      "title": "연방법원, AI 오류로 잘못된 법률 문서 제출한 변호사에 벌금 11만 달러",
-      "summary": "AI가 생성한 잘못된 법률 정보를 검증 없이 사용한\n변호사 2명에게 법원이 거액의 벌금을 부과했다",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeElaX3JBMVNXc0NKZktvc1RlT3BlS1djblliN1BOYjRvbFRRVFVGZkIxZjdXVi1RVEIzSzJidDBRci1SZmswTEg3YjZ0bWtzQ1VRSkxwZDk5NHdDaTFDUVZkNUVCUlpPN21Cejd3Q3lpa1FtaG1KY2FtLWdlbFZVTkJpM0lQaldwNHVma3RYcEV2NEY4c2ZlMFplU3NPRzVtSGVB?oc=5",
-      "source": "ABA Journal",
-      "pubDate": "Fri, 17 Apr 2026 16:38:00 GMT",
-      "relevance": "medium",
-      "youthAppeal": true
-    },
-    {
-      "title": "구글, AI를 스팸·사기 대응 도구로 활용해 역공 나서",
-      "summary": "구글이 AI 기술을 이용한 스팸과 사기가 증가하는 가운데\nAI를 활용한 보안 시스템으로 맞대응에 나섰다고 발표",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNM2VCcjEzbF9NNmVHejZ6WjVTOThOcXlVbUZ0cHpBSWFUMGVTQ3dzS0lkODFiLVNFQVJHdU9HSmY0Nkowc2I4dmRza3U0dzB0cWx4ajZrbUoyQUxIb0lEa0gtVE0zX1BmZDV2MXFBRVI5VWtaZUdQeUVTYVQyMUdQNkw0Q29XREg5N0Z0aGIyUlJMaFJxR0VSenlEYnRoVVZOSnlWaFpFMm05WXptWlB5Nlg1WnBvdmMtZmhxQ3dRMDJSbEkxOXc?oc=5",
-      "source": "Japan Today",
-      "pubDate": "Fri, 17 Apr 2026 20:30:00 GMT",
-      "relevance": "medium",
-      "youthAppeal": true
+      "youthAppeal": false
     }
   ],
-  "updatedAt": "2026. 04. 18. 토요일 AM 08:43"
+  "updatedAt": "2026. 04. 19. 일요일 AM 08:40"
 }
